@@ -1,0 +1,24 @@
+html {
+  width: 100%;
+  min-width: 320px;
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.15;
+  scroll-behavior: smooth;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  position: relative;
+}
+
+body {
+  width: 100%;
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+

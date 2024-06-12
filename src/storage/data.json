@@ -1,0 +1,2675 @@
+{
+    "time": 1717580269,
+    "blocks": [
+      {
+        "id": "sec3_spisok-sokrascheniy",
+        "data": {
+          "text": "Список сокращений",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec3_spisok-sokrascheniy_p1",
+        "data": {
+          "text": "ДНК – дезоксирибонуклеиновая кислота"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec3_spisok-sokrascheniy_p2",
+        "data": {
+          "text": "КЩС – кислотно-щелочное состояние"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec3_spisok-sokrascheniy_p3",
+        "data": {
+          "text": "МРТ – магнитно-резонансная томография"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec3_spisok-sokrascheniy_p4",
+        "data": {
+          "text": "ТМС – метод тандемной масс-спектрометрии"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec3_spisok-sokrascheniy_p5",
+        "data": {
+          "text": "ПА – пропионовая ацидемия"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec3_spisok-sokrascheniy_p6",
+        "data": {
+          "text": "УЗИ – ультразвуковое исследование"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec3_spisok-sokrascheniy_p7",
+        "data": {
+          "text": "ЩФ – щелочная фосфатаза"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec3_spisok-sokrascheniy_p8",
+        "data": {
+          "text": "ЭКГ – электрокардиография"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec3_spisok-sokrascheniy_p9",
+        "data": {
+          "text": "ЭхоКГ – эхокардиография"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec3_spisok-sokrascheniy_p10",
+        "data": {
+          "text": "ЭЭГ – электроэнцефалография"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec4_terminy-i-opredeleniya",
+        "data": {
+          "text": "Термины и определения",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec4_terminy-i-opredeleniya_p1",
+        "data": {
+          "text": "<strong id=\"sec4_terminy-i-opredeleniya_p1_t1\">Гемодиализ</strong> – метод внепочечного очищения <a href=\"/outer_gate?to=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D1%2580%25D0%25BE%25D0%25B2%25D1%258C\" target=\"_blank\" id=\"sec4_terminy-i-opredeleniya_p1_t3\"><span style=\"color: #000000;\" id=\"sec4_terminy-i-opredeleniya_p1_t2\">крови</span></a><span style=\"color: #000000;\" id=\"sec4_terminy-i-opredeleniya_p1_t7\">, во время которого происходит удаление из организма токсических продуктов обмена веществ, нормализация нарушений <a style=\"color: #000000;\" href=\"/outer_gate?to=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2592%25D0%25BE%25D0%25B4%25D0%25BD%25D1%258B%25D0%25B9_%25D0%25B1%25D0%25B0%25D0%25BB%25D0%25B0%25D0%25BD%25D1%2581\" target=\"_blank\" id=\"sec4_terminy-i-opredeleniya_p1_t4\">водного</a> и <a style=\"color: #000000;\" href=\"/outer_gate?to=https%3A%2F%2Fru.wikipedia.org%2Fw%2Findex.php%3Ftitle%3D%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BB%25D0%25B8%25D1%2582%25D0%25BD%25D1%258B%25D0%25B9_%25D0%25B1%25D0%25B0%25D0%25BB%25D0%25B0%25D0%25BD%25D1%2581%26action%3Dedit%26redlink%3D1\" target=\"_blank\" id=\"sec4_terminy-i-opredeleniya_p1_t5\">электролитного</a> балансов,при этом очищение крови осуществляется через искусственную мембрану с применением аппарата «<a style=\"color: #000000;\" href=\"/outer_gate?to=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2598%25D1%2581%25D0%25BA%25D1%2583%25D1%2581%25D1%2581%25D1%2582%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25B0%25D1%258F_%25D0%25BF%25D0%25BE%25D1%2587%25D0%25BA%25D0%25B0\" target=\"_blank\" id=\"sec4_terminy-i-opredeleniya_p1_t6\">искусственная почка</a>».</span>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec4_terminy-i-opredeleniya_p2",
+        "data": {
+          "text": "<strong id=\"sec4_terminy-i-opredeleniya_p2_t1\">Метаболический криз</strong>– критическое, угрожающее жизни состояние, спровоцированное неблагоприятными факторами, обуславливающими усиление процессов клеточного катаболизма с накоплением токсичных пропионовых производных и проявляющееся остро возникшей энцефалопатией, приступами рвоты, судорогами."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec4_terminy-i-opredeleniya_p3",
+        "data": {
+          "text": "<strong id=\"sec4_terminy-i-opredeleniya_p3_t1\">Перитонеальный диализ</strong>–метод внепочечного очищени<span style=\"color: #000000;\" id=\"sec4_terminy-i-opredeleniya_p3_t5\">я <a style=\"color: #000000;\" href=\"/outer_gate?to=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D1%2580%25D0%25BE%25D0%25B2%25D1%258C\" target=\"_blank\" id=\"sec4_terminy-i-opredeleniya_p3_t2\">крови</a>, во время которого происходит удаление из организма токсических продуктов обмена веществ, нормализация нарушений <a style=\"color: #000000;\" href=\"/outer_gate?to=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2592%25D0%25BE%25D0%25B4%25D0%25BD%25D1%258B%25D0%25B9_%25D0%25B1%25D0%25B0%25D0%25BB%25D0%25B0%25D0%25BD%25D1%2581\" target=\"_blank\" id=\"sec4_terminy-i-opredeleniya_p3_t3\">водного</a> и <a style=\"color: #000000;\" href=\"/outer_gate?to=https%3A%2F%2Fru.wikipedia.org%2Fw%2Findex.php%3Ftitle%3D%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BB%25D0%25B8%25D1%2582%25D0%25BD%25D1%258B%25D0%25B9_%25D0%25B1%25D0%25B0%25D0%25BB%25D0%25B0%25D0%25BD%25D1%2581%26action%3Dedit%26redlink%3D1\" target=\"_blank\" id=\"sec4_terminy-i-opredeleniya_p3_t4\">электролитного</a> балансов,при этом очищение крови производится за счёт смены специальных растворов в брюшной полости, а в кач</span>естве мембраны выступает брюшина пациента. "
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec5_1-kratkaya-informatsiya-po-zabolevaniyu-ili-sostoyaniyu-gruppy-zabolevaniy-ili-sostoyaniy",
+        "data": {
+          "text": "1. Краткая информация по заболеванию или состоянию (группы заболеваний или состояний)",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec6_1-1-opredelenie-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy",
+        "data": {
+          "text": "1.1 Определение заболевания или состояния (группы заболеваний или состояний)",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec6_1-1-opredelenie-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p1",
+        "data": {
+          "text": "Пропионовая ацидемия (ацидурия) – генетически гетерогенное наследственное заболевание из группы органических ацидурий, обусловленное дефицитом пропионил-КоА карбоксилазы, что ведет к блокированию обмена пропионатов на уровне перехода пропионил-КоА в метилмалонил-КоА и нарушению метаболизма ряда аминокислот (изолейцин, валин, треонин, метионин), а также жирных кислот с нечетным числом атомов углерода и холестерина."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec7_1-2-etiologiya-i-patogenez-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy",
+        "data": {
+          "text": "1.2 Этиология и патогенез заболевания или состояния (группы заболеваний или состояний)",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec7_1-2-etiologiya-i-patogenez-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p1",
+        "data": {
+          "text": "Выделяют два генетически гетерогенных, но клинически сходных варианта пропионовой ацидемии (тип I и тип II), обусловленных дефицитом  a- или β-субъединиц пропионил-КоА-карбоксилазы, которая участвует в метаболизме изолейцина, валина, треонина, метионина, жирных кислот с нечетным числом углеродных атомов и холестерина. Ген <em id=\"sec7_1-2-etiologiya-i-patogenez-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p1_t1\">PCCA</em>, кодирующий ά-субъединицу, локализован на длинном плече хромосомы 13 - 13q32, ген <em id=\"sec7_1-2-etiologiya-i-patogenez-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p1_t2\">PCCB, </em>кодирующий β-субъединицу - на длинном плече хромосомы 3 - 3q21-q22[1]."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec7_1-2-etiologiya-i-patogenez-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p2",
+        "data": {
+          "text": "Тип наследования пропионовой ацидемииI и IIтипа– аутосомно-рецессивный."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec7_1-2-etiologiya-i-patogenez-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p3",
+        "data": {
+          "text": "Патогенез заболевания связан с накоплением производных пропионовой кислоты вследствие блокирования обмена на уровне перехода пропионил-КоА в метилмалонил-КоА. Предшественниками пропионатов в организме служат аминокислоты изолейцин, валин, треонин и метионин (50% общего количества пропионатов), жирные кислоты с нечетным числом атомов углерода и холестерин (25%); остальная часть пропионатов образуется в кишечнике в результате деятельности эндогенной флоры. Накопление пропионовой, гидроксипропионовой, метиллимонной кислот и их производныхприводит кметаболическому кетоацидозу и оказывает токсическое воздействие на различные ткани, приводя к жировой дегенерации печени, кардиомиопатии, атрофии различных отделов головного мозга, угнетению функции костного мозга.Как следствие возникает гипераммониемия, гиперглицинемия, гипогликемия. Повышенный уровень вкровии высокая почечная экскреция пропионилкарнитина обусловливают истощение запасов карнитина и его вторичный дефицит. Схема метаболических нарушений, наблюдающихся при пропионовой ацидемии, представлена в Приложении А3.1."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec8_1-3-epidemiologiya-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy",
+        "data": {
+          "text": "1.3 Эпидемиология заболевания или состояния (группы заболеваний или состояний)",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec9_1-4-osobennosti-kodirovaniya-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy-po-mezhdunarodnoy-statisticheskoy-klassifikatsii-bolezney-i-problem-svyazannyh-so-zdoroviem",
+        "data": {
+          "text": "1.4 Особенности кодирования заболевания или состояния (группы заболеваний или состояний) по Международной статистической классификации болезней и проблем, связанных со здоровьем",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec9_1-4-osobennosti-kodirovaniya-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy-po-mezhdunarodnoy-statisticheskoy-klassifikatsii-bolezney-i-problem-svyazannyh-so-zdoroviem_p1",
+        "data": {
+          "text": "Е71.1 - Другие виды нарушения обмена аминокислот с разветвленной цепью."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec10_1-5-klassifikatsiya-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy",
+        "data": {
+          "text": "1.5 Классификация заболевания или состояния (группы заболеваний или состояний)",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec10_1-5-klassifikatsiya-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p1",
+        "data": {
+          "text": "Выделяют два генетически гетерогенных (клинически сходных) варианта пропионовой ацидемии - тип I (мутации гена <em id=\"sec10_1-5-klassifikatsiya-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p1_t1\">PCCA</em>) и тип II (мутации гена <em id=\"sec10_1-5-klassifikatsiya-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p1_t2\">PCCB </em>– встречаются чаще). Кроме того, заболевание имеет две клинические формы в зависимости от сроков манифестации и тяжести проявлений, что, по-видимому, связано со степенью метаболического дефекта – неонатальная и младенческая (или поздняя) формы."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec11_1-6-klinicheskaya-kartina-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy",
+        "data": {
+          "text": "1.6 Клиническая картина заболевания или состояния (группы заболеваний или состояний)",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec11_1-6-klinicheskaya-kartina-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p1",
+        "data": {
+          "text": "Неонатальная форма ПА манифестирует на первой недележизни, характеризуется острым началом, кризовым течением.Наблюдается отказ от еды, рвота, обезвоживание, потеря веса, диффузная мышечная гипотония, гипотермия. Достаточно быстро развивается нарушение сознания (летаргия, кома), судороги. При лабораторном исследовании выявляется выраженный метаболический ацидоз, гиперкетонемия, гипераммониемия.Вероятность летального исхода в период метаболического криза при неонатальной форме около40%."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec11_1-6-klinicheskaya-kartina-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p2",
+        "data": {
+          "text": "При младенческой (инфантильной) форме заболевание проявляется метаболическими кризами, которые провоцируются приемом большого количества белковой пищи, ОРВИ, кишечными инфекциями и другими факторами, активирующими процессы катаболизма. Ранними признаками метаболического криза являются вялость, сонливость или раздражительность, отказ от еды, рвота. Неврологические расстройства прогрессируют вплоть до сопора или комы, которые могут привести к летальному исходу. Тяжесть состояния, главным образом, определяется выраженным метаболическим кетоацидозом, гипераммониемией, в ряде случаев – гипогликемией."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec11_1-6-klinicheskaya-kartina-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy_p3",
+        "data": {
+          "text": "По данным литературы, у большинствапациентов с ПА выявляется задержка физического развития и психомоторного развития,частыми проявлениями ПА является экстрапирамидная симптоматика (хорея, тремор, тики, баллизм и др.), инсультоподобные эпизоды. У 50% детей развивается судорожный синдром:тонико-клонические судороги, абсансы, миоклонии. У 20—30% пациентов наблюдается дилатационная или гипертрофическая кардиомиопатия, нарушения ритма сердца – удлиненный интервал QT. Также описан острый панкреатит, атрофия зрительных нервов, эритематозный дерматит. Дети часто болеют ОРВИ, кишечными инфекциями. У пациентов старшего возраста развивается микроцефалия, умственная отсталость, симптоматическая эпилепсия, резистентная к проводимой фармакотерапии, спастический тетрапарез, экстрапирамидные нарушения. Возможно развитие внутричерепных кровоизлияний[1]."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec12_2-diagnostika-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-diagnostiki",
+        "data": {
+          "text": "2. Диагностика заболевания или состояния (группы заболеваний или состояний) медицинские показания и противопоказания к применению методов диагностики",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec12_2-diagnostika-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-diagnostiki_p1",
+        "data": {
+          "text": "<em id=\"sec12_2-diagnostika-zabolevaniya-ili-sostoyaniya-gruppy-zabolevaniy-ili-sostoyaniy-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-diagnostiki_p1_t1\">Диагностика ПА основана на анализе родословной, оценке данных анамнеза, клинических проявлений, результатах определения концентрации аминокислот (изолейцина, валина, метионина, треонина, глицина) в крови, пропионилкарнитина (С3) и свободного карнитина (С0) в крови, почечной экскреции органических кислот - 3-гидроксипропионовой, метиллимонной, пропионил- и тиглилглицина. </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec13_2-1-zhaloby-i-anamnez",
+        "data": {
+          "text": "2.1 Жалобы и анамнез",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec13_2-1-zhaloby-i-anamnez_p1",
+        "data": {
+          "text": "<em id=\"sec13_2-1-zhaloby-i-anamnez_p1_t1\">При сборе анамнеза и жалоб рекомендовано обратить внимание на следующие жалобы и анамнестические события: </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec13_2-1-zhaloby-i-anamnez_p3",
+        "data": {
+          "text": "<em id=\"sec13_2-1-zhaloby-i-anamnez_p3_t1\">Начало заболевания в детском возрастеможет быть связано со следующими факторами: </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec14_2-2-fizikalnoe-obsledovanie",
+        "data": {
+          "text": "2.2 Физикальное обследование",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec14_2-2-fizikalnoe-obsledovanie_p1",
+        "data": {
+          "text": "<em id=\"sec14_2-2-fizikalnoe-obsledovanie_p1_t1\">При осмотре необходимо обратить внимание на следующие основные клинические проявления: </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec14_2-2-fizikalnoe-obsledovanie_p2",
+        "data": {
+          "text": "<strong id=\"sec14_2-2-fizikalnoe-obsledovanie_p2_t2\"><em id=\"sec14_2-2-fizikalnoe-obsledovanie_p2_t1\">  неонатальный период</em></strong>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec14_2-2-fizikalnoe-obsledovanie_p4",
+        "data": {
+          "text": "<strong id=\"sec14_2-2-fizikalnoe-obsledovanie_p4_t2\"><em id=\"sec14_2-2-fizikalnoe-obsledovanie_p4_t1\">детипервых лет жизни</em></strong>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec14_2-2-fizikalnoe-obsledovanie_p6",
+        "data": {
+          "text": "<em id=\"sec14_2-2-fizikalnoe-obsledovanie_p6_t1\">Подробно данные физикального обследования описаны в разделе «клиническая картина».</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya",
+        "data": {
+          "text": "2.3 Лабораторные диагностические исследования",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p1",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p1_t1\">Рекомендовано</strong> пациентам с клиническими признакамиПА проведениеколичественного определения уровня аминокислот  в крови(Комплексное определение концентрации аминокислоты и ацилкарнитины в крови, Комплексное определение концентрации аминокислоты и ацилкарнитины в крови методом тандемной масс-спектрометрии)с целью подтверждения диагноза ПА биохимическими методами и дифференциальной диагностики с другими наследственными нарушениями обмена веществ[1, 4, 5, 6, 7].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p2",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p2_t1\">Комментарии: </strong><em id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p2_t2\">в плазме крови (или в пятнах высушенной крови) выявляют концентрацию аминокислот и ацилкарнитинов: при пропионовой ацидурии наблюдается повышение концентрации пропионилкарнитина (С3), низкое содержание свободного карнитина (С0), повышение соотношения С3/С0 и С3/С2.Уровень лейцина, изолейцина, валина, метионина в крови упациентов может находиться в пределах нормы, что не позволяет на основании анализа аминокислот подтвердить или исключить заболевание. У многих пациентов повышен уровень глицина. Однако это не является специфичным и наблюдается при других наследственных нарушениях обмена веществ. </em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p3",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p3_t1\">Рекомендовано</strong> пациентам с клиническими признакамиПА комплексное определение содержания органических кислот в моче (Комплекс исследований для диагностики органических ацидурий) с целью подтверждения диагноза ПА биохимическими методами и дифференциальной диагностики с другими наследственными нарушениями обмена веществ[1, 8].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p4",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p4_t1\">Комментарии: </strong><em id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p4_t2\">Характерным для ПА является повышение концентрации 3-гидроксипропионовой, метиллимонной, 3-гидрокси-n-валериановой кислот, тиглилглицина, Также могут быть повышены 2-метил-3-оксовалериановая кислота, 3-гидрокси-2-метилмасляная кислота, 2-метил-3-оксомасляная кислота.   Концентрация метилмалоновой кислоты в норме, что позволяет проводить дифференциальную диагностику с ММА.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p5",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p5_t1\">Рекомендовано </strong>пациентам с выявленными биохимическими изменениями,характерными для ПА, для подтверждения диагнозапроводить молекулярно-генетическое исследование с целью выявления мутаций в генах <em id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p5_t2\">PCCA, PCCB</em>(Комплекс исследований для диагностики органических ацидурий)с целью молекулярно-генетического подтверждения диагноза ПА [1, 4, 5, 6].",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p6",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p6_t1\">Комментарии: </strong><em id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p6_t2\">в большинстве случаев выявляют биаллельные патогенные варианты в   генах PCCA, PCCB, что является основанием для молекулярно-генетического подтверждения диагноза. Однако, если обнаружен только один патогенный аллель или изменений в данных генах не выявлено, диагноз не может быть исключен, если присутствуют клинические и биохимические данные, указывающие на ПА. Изменения в генах могут представлять крупные перестройки, мутации сайта-сплайсинга, которые сложно выявить с применением стандартных методов молекулярно-генетического анализа.    </em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p7",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p7_t1\">Рекомендовано</strong> пациентам с клиническими признаками ПА исследованиеобщего (клинического) анализакрови развернутого с целью выявления нейтропении, тромбоцитопении, панцитопении, анемии [1].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p8",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p8_t1\">Комментарии: </strong><em id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p8_t2\">проводится при первичной диагностике и в динамическом наблюдении, особенно у пациентов с нарушенной почечной функцией.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p9",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p9_t1\">Рекомендовано</strong> пациентам с клиническими признаками  ПА  при подозрении на развитие метаболического криза провести оценку уровня pH крови (Исследование уровня водородных ионов (рН) крови, Исследование уровня буферных веществ в крови),кетоновых тел (Обнаружение кетоновых тел в моче, Обнаружение кетоновых тел в моче экспресс-методом) с целью своевременной коррекции терапии[1, 4, 5, 6].",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p10",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p10_t1\">Комментарии: </strong><em id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p10_t2\">лабораторными предвестниками развития метаболического криза являются тенденция к метаболическому ацидозу с дефицитом оснований, уменьшение содержания свободного карнитина, повышение уровня пропионилкарнитина в крови, почечной экскреции органических кислот.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p11",
+        "data": {
+          "text": "<strong id=\"sec15_2-3-laboratornye-diagnosticheskie-issledovaniya_p11_t1\">Рекомендовано</strong> пациентам с клиническими признаками ПА ипри подозрении на метаболический ацидоз исследование уровня аммиака, лактата в крови (Исследование уровня молочной кислоты в крови), исследование уровня мочевины, исследование уровня глюкозы кровис целью диагностики и своевременной коррекции терапии [1].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya",
+        "data": {
+          "text": "2.4 Инструментальные диагностические исследования",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p1",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p1_t1\">Рекомендовано</strong> пациентам с клиническими признаками  ПА проведение компьютерной томографии головного мозга (Компьютерная томография головного мозга) и/или магнитно-резонансной томографииголовного мозга (Магнитно-резонансная томография головного мозга,)с целью оценки состояния головного мозга, дифференциальной диагностики с другими наследственными заболеваниями и выявления изменений характерных для ПА [4, 9, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p2",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p2_t1\">Комментарии: </strong><em id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p2_t2\">при проведении КТ/МРТ головного мозга у пациентов с ПА выявляют корково-подкорковую атрофию, расширение желудочков мозга, задержку миелинизации, повышение интенсивности сигнала в области базальных ганглиев. Следует отметить, что данные нарушения не являются высокоспецифичными и могут наблюдаться при митохондриальных болезнях, метилмалоновой ацидурии, других заболеваниях.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p3",
+        "data": {
+          "text": "<em id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p3_t1\">Наркозпроводится по показаниям</em><strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p3_t2\">.</strong>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p4",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p4_t1\">Рекомендовано</strong> проведение электрокардиографии (ЭКГ), эхокардиографии (ЭхоКГ) всем пациентам с подозрением на ПАдля диагностики кардиомиопатии и нарушений ритма сердца [4, 9, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p5",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p5_t1\">Комментарии: </strong><em id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p5_t2\">при необходимости</em><em id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p5_t3\">, при наличии показаний для исследования -</em><em id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p5_t4\">Холтеровского мониторирования сердечного ритма, и/или суточного мониторирования артериального давления(согласно соответствующим клиническим рекомендациям по нарушениям ритма сердца и/или артериальной гипертензии).</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p6",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p6_t1\">Рекомендовано</strong> пациентам с клиническими признаками ПА проведениеультразвукового исследования (УЗИ) органов брюшной полости и почек (Ультразвуковое исследование органов брюшной полости (комплексное), Ультразвуковое исследование почек)с цельюдиагностики панкреатита и поражения почек[4, 9, 10, 11, 12, 13, 25, 26, 27, 28<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p6_t2\">].</strong>",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p7",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p7_t1\">Рекомендовано</strong> пациентам с ПА по показаниям проведение компьютерной или магнитно-резонансной томографии органов брюшной полости, Магнитно-резонансной холангиографии, Магнитно-резонансной холангиопанкреатографии для оценки состояния внутренних органов[1, 27].",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p8",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p8_t2\"><em id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p8_t1\">Комментарии: </em></strong><em id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p8_t3\">одним из частых осложнений ПА является панкреатит, который встречается у  4-18% пациентов[27]. Наркоз-по показаниям.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p9",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p9_t1\">Рекомендован </strong>пациентам с клиническими признаками ПА осмотр врача-офтальмолога (офтальмоскопия, визометрия, рефрактометрия, периметрия компьютерная, офтальмотонометрия, исследование цветоощущения, электрофизиологическое исследование (регистрация зрительных вызванных потенциалов коры головного мозга), Биомикрофотография глазного дна с использованием фундус-камеры, Биомикроскопия глазного дна, Оптическое исследование головки зрительного нерва и слоя нервных волокон с помощью компьютерного анализатора  и др.)по показаниям, при наличии подозрений на поражение органа зрения[1,8,10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p10",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p10_t1\">Комментарии: </strong><em id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p10_t2\">интервалы между визитами должны определяться индивидуально с учетомвозраста, тяжести заболевания, стабильности обмена веществ и соблюдениядиетотерапии.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p11",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p11_t1\">Рекомендовано</strong> пациентам с клиническими признаками ПА проведениеэлектроэнцефалографии (при диагностике и далеепри судорожном синдроме)с целью своевременной диагностики и контроля лечения судорожного синдрома [1, 29].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p12",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p12_t1\">Комментарии: </strong><em id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p12_t2\">также проводится электроэнцефалография с видеомониторингом.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p13",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p13_t1\">Рекомендовано</strong> пациентам с клиническимипризнаками ПАи подозрением на снижение слуха/при снижении слухаисследованияе слуха (проведение отоакустической эмиссии (Тональная аудиометрия, Речевая аудиометрия, Игровая аудиометрия, Регистрация вызванных акустических ответов мозга на постоянные модулированные тоны (ASSR тест)) (при отсутствии экссудативного отита)с целью своевременной диагностики[1].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p14",
+        "data": {
+          "text": "<strong id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p14_t1\">Комментарии: </strong><em id=\"sec16_2-4-instrumentalnye-diagnosticheskie-issledovaniya_p14_t2\">исследования проводятся в зависимости от клинической ситуации.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec17_2-5-inye-diagnosticheskie-issledovaniya",
+        "data": {
+          "text": "2.5 Иные диагностические исследования",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov",
+        "data": {
+          "text": "2.5.1 Консультации и наблюдение специалистов",
+          "level": 3,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p1",
+        "data": {
+          "text": "<strong id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p1_t1\">Рекомендуется </strong>для наблюдения пациентов с установленным диагнозом ПА применять мультидисциплинарный подход в виду того, что заболевание характеризуется поражением многих органов и систем, требует комплексной терапии, что диктует необходимость совместного ведения пациента специалистами разных профилей [4, 6, 9, 10, 14].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p2",
+        "data": {
+          "text": "<strong id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p2_t1\">Рекомендуется</strong> консультация врача-диетолога или врача-генетика всем детям с ПА для назначения патогенетической диетотерапиии далее при необходимости с целью коррекции диетотерапии [4, 6, 9, 10, 14].",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p3",
+        "data": {
+          "text": "<strong id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p3_t1\">Комментарии: </strong><em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p3_t2\">интервалы между визитами должны определяться индивидуально с учетомвозраста, тяжести заболевания, стабильности обмена веществ и соблюдениядиетотерапии.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p4",
+        "data": {
+          "text": "<strong id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p4_t1\">Рекомендуется</strong> консультации первичная и повторные врача-психиатра при подозрении или наличии психических расстройств (психозы, биполярное расстройство и др.)с целью своевременной диагностики и лечения выявленной патологии [4, 6, 9, 10, 13, 14].",
+          "grade": "3C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p5",
+        "data": {
+          "text": "<strong id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p5_t1\">Комментарии: </strong><em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p5_t2\">появление психических расстройств связывают с токсичными метаболитами, коррекция диетотерапии способствует разрешению симптомов нарушения психики</em><em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p5_t3\">.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p6",
+        "data": {
+          "text": "<em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p6_t1\">Интервалы между визитами должны определяться индивидуально с учетом возраста тяжести заболевания, стабильности обмена веществ и соблюдения диетотерапии.</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p7",
+        "data": {
+          "text": "<strong id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p7_t1\">Рекомендуется</strong> консультации первичная и повторныеврача-реабилитолога, медицинского психолога и логопеда-дефектолога для планирования индивидуальной реабилитационной программы психолого-педагогической поддержки пациентамс ПА и их семьям[4, 6, 10,14, 16].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p8",
+        "data": {
+          "text": "<strong id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p8_t1\">Комментарии: </strong><em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p8_t2\">Разработка индивидуальной программы дефектологической реабилитации, Разработка индивидуальной программы логопедической реабилитации.</em><em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p8_t3\">П</em><em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p8_t4\">ац</em><em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p8_t5\">иентам необходимо тестирование по утвержденным методикам для определения интеллектуального развития. П</em><em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p8_t6\">сихологическая помощь пациентам может потребовать курс занятий– в зависимости от индивидуальных особенностей пациента и семьи.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p9",
+        "data": {
+          "text": "<em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p9_t1\">Услуги логопеда:</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p10",
+        "data": {
+          "text": "<em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p10_t1\">Медико-логопедическое исследование при дисфагии</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p11",
+        "data": {
+          "text": "<em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p11_t1\">Медико-логопедическое исследование при афазии</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p12",
+        "data": {
+          "text": "<em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p12_t1\">Медико-логопедическое исследование при дизартрии</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p13",
+        "data": {
+          "text": "<em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p13_t1\">Медико-логопедическая процедура при дисфагии</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p14",
+        "data": {
+          "text": "<em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p14_t1\">Медико-логопедическая процедура при афазии</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p15",
+        "data": {
+          "text": "<em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p15_t1\">Медико-логопедическая процедура при дизартрии</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p16",
+        "data": {
+          "text": "<em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p16_t1\">Медико-логопедическая тонально-ритмическая процедура</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p17",
+        "data": {
+          "text": "<em id=\"sec18_2-5-1-konsultatsii-i-nablyudenie-spetsialistov_p17_t1\">Медико-логопедическая процедура с использованием интерактивных информационных технологий</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec19_2-5-2-differentsialnaya-diagnostika",
+        "data": {
+          "text": "2.5.2 Дифференциальная диагностика",
+          "level": 3,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec19_2-5-2-differentsialnaya-diagnostika_p1",
+        "data": {
+          "text": "<strong id=\"sec19_2-5-2-differentsialnaya-diagnostika_p1_t1\">Рекомендовано</strong> проводить дифференциальную диагностику с гипоксическими поражениями нервной системы, внутриутробными инфекциями, поствакцинальными осложнениями, сахарным диабетом (при выявлении гипергликемии), наследственными нарушениями обмена веществ, в частности с другими формами органических ацидурий и с дефектами цикла синтеза мочевины, с митохондриальными заболеваниями, нарушениями гликозилирования, гликогенозами и др. [4, 6, 9, 10, 14].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec20_3-lechenie-vklyuchaya-medikamentoznuyu-i-nemedikamentoznuyu-terapii-dietoterapiyu-obezbolivanie-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-lecheniya",
+        "data": {
+          "text": "3. Лечение, включая медикаментозную и немедикаментозную терапии, диетотерапию, обезболивание, медицинские показания и противопоказания к применению методов лечения",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec20_3-lechenie-vklyuchaya-medikamentoznuyu-i-nemedikamentoznuyu-terapii-dietoterapiyu-obezbolivanie-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-lecheniya_p1",
+        "data": {
+          "text": "<em id=\"sec20_3-lechenie-vklyuchaya-medikamentoznuyu-i-nemedikamentoznuyu-terapii-dietoterapiyu-obezbolivanie-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-lecheniya_p1_t1\">Основные принципы терапии при ПА направлены на предотвращение метаболической декомпенсации (метаболического криза), снижение образования пропионатов, предупреждении развития токсического поражения тканей головного мозга и внутренних органов, с обеспечением при этом процессов нормального роста и нутритивного статуса детей. Основными компонентами комплексного лечения пациентов служат низкобелковая диета с использованием специализированные продуктов питания без патогенетически значимых аминокислот, препараты левокарнитина, биотина (в случаях, когда подтверждается чувствительность к биотину).   По показаниям назначают противоэпилептические препаратыи другие виды симптоматической терапии [1, 30, 31, 32].</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec21_3-1-konservativnoe-lechenie",
+        "data": {
+          "text": "3.1 Консервативное лечение",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya",
+        "data": {
+          "text": "3.1.1 Диетотерапия",
+          "level": 3,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p1",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p1_t1\">Рекомендовано </strong>пациентам с клиническими проявлениями, характерными для ПА, ограничить поступление белка (в том числе до получения лабораторных результатов, подтверждающих заболевание) с целью предотвращения развития метаболического криза[4, 6, 9, 10, 14].",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p2",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p2_t1\">Комментарии: </strong><em id=\"sec22_3-1-1-dietoterapiya_p2_t2\">поскольку развитие метаболического криза может привести к необратимым изменениям со стороны нервной системы, при подозрении на ПА следует собрать биоматериал для проведения биохимического тестирования и затем перевести пациента на питание с низким содержанием белка. Для детей первого полугодия жизни грудное вскармливание или вскармливание детскими молочными смесями с низким содержанием белка (1,2 -1,3 г/100 мл восстановленного продукта). Для детей старше 6 месяцев - исключение высокобелковых продуктов (мясо, творог, рыба) из рациона.Биохимические тесты проводятся в течение 3-7 дней, а молекулярно-генетические исследования могут потребовать около 2-3 недель. Поэтому необходимо, чтобы в этот период ребенок находился на низкобелковой диете.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p3",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p3_t1\">Рекомендовано </strong>всем пациентам после подтверждения диагноза ПА строгое ограничение белка натуральных пищевых продуктов с целью сведения к необходимому минимуму поступление в организм аминокислот метионина, треонина, валина, изолейцина. [4, 10, 16, 17, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p4",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p4_t1\">Комментарии: </strong>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p5",
+        "data": {
+          "text": "<em id=\"sec22_3-1-1-dietoterapiya_p5_t1\">После подтверждения диагноза тактика диетотерапии основана на следующих принципах: </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p7",
+        "data": {
+          "text": "<em id=\"sec22_3-1-1-dietoterapiya_p7_t1\">Следует пользоваться одними справочными материалами по химическому составу продуктов (в разных справочниках данные могут отличаться) с целью предотвращения ошибок в расчетах </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p9",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p9_t1\">Рекомендована </strong>всем пациентамобязательная компенсация дефицита белка за счет специализированных смесей на основе аминокислот, соответствующих возрастным потребностям в основных пищевых веществах и энергии, но не содержащих метионин, треонин, валин, изолейцинс целью поддержания адекватного нутритивного статуса [4, 10, 16, 17, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p10",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p10_t1\">Рекомендовано </strong>всем пациентам обеспечение достаточной энергетической ценности рациона в основном за счет углеводов с целью поддержания процессов анаболизма и предотвращения развития процессов катаболизма [4, 10, 17, 19].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p11",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p11_t1\">Рекомендовано </strong>всем пациентам ограничение квоты жиров до 50-60% от возрастных суточных потребностей во избежание накопления пропионовой кислоты - продукта β-окисления жирных кислот с нечетным числом атомов углерода[4, 10, 16, 17, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p12",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p12_t1\">Комментарии: </strong><em id=\"sec22_3-1-1-dietoterapiya_p12_t2\">в качестве источника жира предпочтительнее использовать растительные масла, содержащие полиненасыщенные жирные кислоты (рапсовое, льняное, оливковое, подсолнечное и др.)</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p13",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p13_t1\">Рекомендовано</strong> обеспечение всех пациентов достаточным количеством жидкости с целью профилактики нарушения водно-электролитного баланса [4, 10, 16, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p14",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p14_t1\">Рекомендовано </strong>всем пациентам дробный прием пищи без длительных ночных перерывов во избежание голодания, особенно детям грудного и раннего возраста [4, 10, 16, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec22_3-1-1-dietoterapiya_p15",
+        "data": {
+          "text": "<strong id=\"sec22_3-1-1-dietoterapiya_p15_t1\">Комментарии: </strong><em id=\"sec22_3-1-1-dietoterapiya_p15_t2\">перерыв между кормлениями, включая ночные, не более 3 часов.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec23_3-1-2-medikamentoznoe-lechenie",
+        "data": {
+          "text": "3.1.2 Медикаментозное лечение.",
+          "level": 3,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec23_3-1-2-medikamentoznoe-lechenie_p1",
+        "data": {
+          "text": "<strong id=\"sec23_3-1-2-medikamentoznoe-lechenie_p1_t1\">Рекомендовано</strong>всем пациентам проведение пробного лечения биотином (биологически активная добавка) для выявления чувствительности к этому кофактору при установленном диагнозе ПА с целью определения чувствительности к препарату и определения показаний к назначению [4, 10, 16, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec23_3-1-2-medikamentoznoe-lechenie_p2",
+        "data": {
+          "text": "<strong id=\"sec23_3-1-2-medikamentoznoe-lechenie_p2_t1\">Комментарии</strong>: <em id=\"sec23_3-1-2-medikamentoznoe-lechenie_p2_t2\">в период пробного лечения в течение двух недель назначают курс биотина в дозе 1-2 мг/сут под контролем уровня пропионилкарнитина в крови и экскреции 3-гидроксипропионовой, метиллимонной кислот. Снижение этих показателей свидетельствует о чувствительности к биотину. В таком случае продолжают кофакторную терапию, доза биотина обычно составляет 5 мг/сут. </em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec23_3-1-2-medikamentoznoe-lechenie_p3",
+        "data": {
+          "text": "<strong id=\"sec23_3-1-2-medikamentoznoe-lechenie_p3_t1\">Рекомендовано</strong>всем пациентам назначение больших доз #левокарнитина с целью повышения выведения токсичной пропионовой кислоты и ликвидации карнитиновой недостаточности карнитина [4, 10, 16, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec23_3-1-2-medikamentoznoe-lechenie_p4",
+        "data": {
+          "text": "<strong id=\"sec23_3-1-2-medikamentoznoe-lechenie_p4_t1\">Комментарии</strong>: <em id=\"sec23_3-1-2-medikamentoznoe-lechenie_p4_t2\">#левокарнитин назначается из расчета 100-200 мг/кг/сут в 2-4 приема, доза корректируется в зависимости от клинического ответа и уровня карнитина[25, 33, 34]. Терапия проводится практически не прерывно. В период метаболического криза и острой гипераммониемии доза может быть увеличена до 300 мг/кг/сут. Однако группа экспертов не рекомендует превышать суточную дозу левокарнитина выше 12 г в сутки длявзрослых [1]. Терапия проводится практически непрерывно. </em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec23_3-1-2-medikamentoznoe-lechenie_p5",
+        "data": {
+          "text": "<strong id=\"sec23_3-1-2-medikamentoznoe-lechenie_p5_t1\">Рекомендовано </strong>всем пациентам с ПА назначение антибактериальной терапии с целью коррекции обмена веществ путем нормализации кишечной микробиоты [10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec23_3-1-2-medikamentoznoe-lechenie_p6",
+        "data": {
+          "text": "<strong id=\"sec23_3-1-2-medikamentoznoe-lechenie_p6_t1\">Комментарии</strong>: <em id=\"sec23_3-1-2-medikamentoznoe-lechenie_p6_t3\">учитывая, что около 25% пропионатов образуются под влиянием жизнедеятельности кишечной микробиоты, дополнительным способом коррекции обмена является антибактериальная терапия с целью подавления активности патогенных и условно патогенных микроорганизмов. Назначают курсы #метронидазола в дозе 10-20 мг/кг/сут в 2-3 приема в течение 10-14 дней; через 3-4 недели курс при необходимости повторяют</em>, <em id=\"sec23_3-1-2-medikamentoznoe-lechenie_p6_t6\">чередуя с #амоксициллином в дозе 50 мг/кгили #Ко-тримоксазолом [Сульфаметоксазол+Триметоприм]в дозе 20 мг/кг[38].</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec23_3-1-2-medikamentoznoe-lechenie_p7",
+        "data": {
+          "text": "<em id=\"sec23_3-1-2-medikamentoznoe-lechenie_p7_t1\">Чередование препаратов необходимо для профилактики развития резистентности микрофлоры к антимикробной терапии.</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec23_3-1-2-medikamentoznoe-lechenie_p8",
+        "data": {
+          "text": "<strong id=\"sec23_3-1-2-medikamentoznoe-lechenie_p8_t1\">Рекомендованы </strong>пациентам с ПА по показаниям витамины поливитамины с минеральными веществами(содержащие колекальциферол, цианокобаламин, фолиевая кислота, препараты цинка, препараты селена и другие) в возрастных дозировках с целью коррекции нутритивного статуса[4, 10, 16, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec23_3-1-2-medikamentoznoe-lechenie_p9",
+        "data": {
+          "text": "<strong id=\"sec23_3-1-2-medikamentoznoe-lechenie_p9_t2\">Комментарии<em id=\"sec23_3-1-2-medikamentoznoe-lechenie_p9_t1\">:</em></strong><em id=\"sec23_3-1-2-medikamentoznoe-lechenie_p9_t3\"> У пациентов с симптоматической эпилепсией или изменениями на ЭЭГ ноотропные препараты (N06B - Психостимуляторы и ноотропные препараты) назначают с осторожностью во избежание провокации эпилептических приступов. </em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza",
+        "data": {
+          "text": "3.1.3 Лечение пациентов в период метаболического криза",
+          "level": 3,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p1",
+        "data": {
+          "text": "<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p1_t1\">При угрозе или в случае развития метаболического криза лечение должно начинаться незамедлительно. </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p2",
+        "data": {
+          "text": "<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p2_t1\">Лечебные мероприятия направлены на прекращение образования и накопления токсичных органических соединений и выведение их из организма. Тактика лечения детей в период криза включает коррекцию диетотерапии, выведение накапливающихся органических кислот, коррекцию метаболического ацидоза, гипераммониемии и водно-электролитных нарушений, энергетическую поддержку и снижения интенсивности процессов катаболизма. </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p3",
+        "data": {
+          "text": "<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p3_t1\">[</em>1<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p3_t2\">, </em>2<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p3_t3\">, </em>4<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p3_t4\">, </em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p3_t5\">14</em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p3_t6\">].</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p4",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p4_t1\">Рекомендована</strong> экстренная госпитализация пациентов с ПА при угрозе или в случае развития метаболического криза с целью незамедлительного проведения интенсивной терапии и предотвращения жизнеугрожающих осложнений [4, 10, 16, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p5",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p5_t1\">Комментарии: </strong><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p5_t2\">факторы, способные спровоцировать метаболический криз: </em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p7",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p7_t1\">Рекомендовано </strong>пациентов с метаболическим кризом на фоне ПА перевести на питание исключительно смесью аминокислот без изолейцина, метионина, треонина и валина, но не более чем на 24-48 часа с цельюснижения образования токсичных метаболитов[4, 10, 16, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p8",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p8_t1\">Комментарии: </strong><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p8_t2\">при наличии срыгиваний, рвоты, отказа от еды – кормление через назогастральный зонд или гастростому (установка гастростомы)[</em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p8_t3\">1</em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p8_t4\">]. Соблюдать режим дробных и частых кормлений с промежутками между кормлениями 2-3 часа.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p13",
+        "data": {
+          "text": "<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p13_t2\"><span class=\"me-tooltip\" data-tooltip=\"\" id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p13_t1\">*</span>- </em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p13_t3\">адаптированоиз</em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p13_t4\"> Matthias R Baumgartner et al. 2014 [10].</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p14",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p14_t1\">Рекомендовано</strong> через 24-48 часа после отмены натурального белка (в период метаболического криза) пациентам с ПА постепенно вводить продукты, содержащие натуральный белок цельюпредотвращения катаболизма и обеспечения необходимыми нутриентами[2, 4, 10, 16, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p15",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p15_t1\">Рекомендовано </strong>пациентам с метаболическим кризом на фоне ПА применять глюкозополимерныерастворы (мальтодекстрин), а также низкобелковые продукты на основе крахмаладля поддержания соответствующей энергетической ценности рациона [2, 4, 10, 16, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p16",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p16_t1\">Рекомендовано</strong> увеличение дозы #левокарнитина и биотина (биологически активная добавка) (в случае доказанной чувствительности к терапии биотином) пациентам в метаболическом кризе на фоне ПА для повышения эффективности терапии[2, 4, 10, 14, 16, 18, 20].",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p17",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p17_t1\">Комментарии: #</strong><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p17_t2\">левокарнитин назначают болюсно не менее 100 мг/кг массы тела и далее оставляют поддерживающую дозу 100 мг/кг/сутки. Для повышения эффективности предпочтительно внутривенное или внутримышечное введение препарата с целью поддержания содержания свободного карнитина в крови выше нормальных значений. Показатель свободного карнитина поддерживают на высоком уровне, превышающем границы нормы. Это обеспечивает детоксикационную функцию карнитина, улучшает связывание и выведение из организма токсичных пропионовых производных. При использовании высоких доз возможно развитие эффектов в виде тошноты и неприятного запаха(моча, дыхание, пот). Указанные явления проходят после снижения дозы. В период метаболического криза и острой гипераммониемии доза может быть увеличена до 300 мг/кг/сут. Однако не рекомендуется превышать суточную дозу левокарнитина выше 12 г для взрослых пациентов [1].</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p18",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p18_t1\">Рекомендовано </strong>внутривенное введение раствора декстрозы с целью восполнения энергетического и предотвращения развития неврологических нарушенийу пациентов с ПА [2, 4, 10, 14, 16, 18, 20].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p19",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p19_t1\">Комментарии:</strong>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p20",
+        "data": {
+          "text": "<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p20_t5\">Внутривенное введение раствора декстрозы из расчета: новорожденные и дети до 3-х лет 10-12мг/кг/мин, от 3 до 10 лет 8-10 мг/кг/мин, старше 10 лет 5-8 мг/кг/мин. При снижение глюкозы ниже 2,5 ммоль/л в крови необходимо внутривенное струйное введение 10%-25% декстрозы  из расчета  2-3 мл/кг, далее переходят на внутривенное капельное введение 10% декстрозы со скоростью 7 - 9 мг/кг/мин до нормализации уровня глюкозы в крови.)  Назначение декстрозы не только восполняет тканевой энергетический дефицит, но и подавляет липолиз и снижает продукцию токсичных дериватов жирных кислот. </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p21",
+        "data": {
+          "text": "<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p21_t1\">Неотложную внутривенную терапию следует начинать как можно раньше при более тяжелых состояниях, с высокой температурой, повторяющейся рвотой или тяжелым гастроэнтеритом.</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p22",
+        "data": {
+          "text": "<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p22_t4\">Растворы для внутривенных инфузий, содержащие 10% декстрозу (или более) следует использовать даже при нормальном уровне глюкозы в крови.  Если у пациента развивается значительная гипергликемия (например, уровень глюкозы в крови больше 250 мг/дл) с глюкозурией и имеются признаки метаболической декомпенсации, то следует рассмотреть возможность начала инфузии инсулина (#инсулин растворимый (человеческий генно-инженерный) ) вместо снижения скорости инфузии декстрозы, способствуя анаболическому состоянию. Начальная доза для инфузии инсулина составляет 0,01 МЕ/кг/мин. Уровень инсулина следует титровать, чтобы поддерживать уровень глюкозы в крови между 100 и 150 мг/дл. </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p23",
+        "data": {
+          "text": "<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p23_t2\">Следует отметить, что инфузия более концентрированного раствора декстрозы (15-25%) при более низкой скорости инфузии посредством центрального катетера может потребоваться при недостаточной сердечной функции. Кроме того, следует соблюдать осторожность при прекращении внутривенной инфузии - необходимо медленно снижать скорость, чтобы избежать состояния реактивной гипогликемии. Если у пациента развивается значительная гипергликемия (например, уровень глюкозы в крови больше 250 мг/дл) с глюкозурией и имеются признаки метаболической декомпенсации, то следует рассмотреть возможность начала внутривенного введения инсулинов и их аналогов (при гликемии выше 14 ммоль\\л)  с целью поддержания адекватного уровня глюкозы крови [36].</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p25",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p25_t1\">Уровень убедительности доказательств –</strong><strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p25_t2\"> </strong><strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p25_t3\">C</strong><strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p25_t4\">, </strong><strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p25_t5\">уровень достоверности доказательств</strong><strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p25_t6\">-</strong><strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p25_t7\"> 5</strong><strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p25_t8\">. </strong>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p26",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p26_t1\">Комментарии:</strong> <em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p26_t4\">для коррекции метаболического ацидоза используются растворы Натрия гидрокарбоната<sup id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p26_t3\"> </sup>(код АТХ – В05ХА), Калия хлорид+Натрия гидрокарбонат+Натрия хлори</em> <em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p26_t6\">д. Натрия гидрокарбонат применяется в виде 8,4% и 4,2% раствора для удобства перерасчета на ммоль NаНСО. Его дозировка (ммоль) определяется по формуле: (-ВЕ) х масса тела (кг) Х 0,3. Кроме того, пациентам рекомендуется щелочное питье – раствор соды из расчета ½-1 чайная ложка на 200 мл воды, щелочные минеральные воды. </em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27",
+        "data": {
+          "text": "<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t1\">В зависимости от тяжести состояния каждые 6-12 часов контролировать показатели кислотно-основного состояния крови, уровня натрия и калия в крови.Пациентам в метаболическом кризе на фоне ПА необходимо </em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t2\">контролировать содержание лактата (Исследование уровня молочной кислоты в крови), аммиака и глюкозы в крови, кислотно-основного состояния крови (Исследование уровня буферных веществ в крови, Исследование уровня водородных ионов (рН) крови) с целью контроля лечения [</em>2<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t3\">, </em>4<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t4\">, </em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t5\">10</em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t6\">, </em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t7\">14</em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t8\">, </em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t9\">16</em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t10\">, </em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t11\">20</em><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p27_t12\">].</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p29",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p29_t1\">Уровень убедительности доказательств </strong><strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p29_t2\">C</strong><strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p29_t3\"> (уровень достоверности рекомендации – 4).</strong>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p30",
+        "data": {
+          "text": "<strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p30_t1\">Комментарии</strong><strong id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p30_t2\">:</strong><em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p30_t4\">.Натрия бензоат (биологически активная добавка) назначается из расчета от 250 мг\\кг \\в сутки (максимально до 500мг/кг/сут, если масса тела превышает 20кг до 5,5г/м<sup id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p30_t3\">2</sup>/сут).  Контроль уровня аммиака длолжен проводиться каждые 6-12 часов.Осуществляют обязательный контроль уровня натрия и калия в крови не реже 1раза в 2 часа.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p31",
+        "data": {
+          "text": "<em id=\"sec24_3-1-3-lechenie-patsientov-v-period-metabolicheskogo-kriza_p31_t1\">Согласно международным рекомендациям по лечению гипераммониемии показано внутривенное введение препаратов, связывающих аммиак, однако в настоящее время на территории Российской Федерации данные лекарственные средства не зарегистрированы.  Бензоат натрия для перорального введения зарегистрирован,возможно изготовление лекарственной формы в аптеке по рецепту врача. Поэтому все препараты, связывающие аммиак, являются препаратами off-label  или не зарегистрированы и требуют оформления врачебной комиссии и согласия родителей/законных представителей и пациента с 15 лет. Прием данных препаратов при гипераммониемии необходим по жизненным показаниям.</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec25_3-2-hirurgicheskoe-lechenie",
+        "data": {
+          "text": "3.2. Хирургическое лечение",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec25_3-2-hirurgicheskoe-lechenie_p1",
+        "data": {
+          "text": "<strong id=\"sec25_3-2-hirurgicheskoe-lechenie_p1_t1\">Рекомендовано </strong>пациентам с ПА при прогредиентном течении патологического процесса в печени рассмотреть возможность трансплантации печени по жизненным показаниям[1, 4, 10, 16, 18,24].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec25_3-2-hirurgicheskoe-lechenie_p2",
+        "data": {
+          "text": "<strong id=\"sec25_3-2-hirurgicheskoe-lechenie_p2_t1\">Комментарии: </strong><em id=\"sec25_3-2-hirurgicheskoe-lechenie_p2_t2\">проводится согласно рекомендациям по трансплантации печени.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec25_3-2-hirurgicheskoe-lechenie_p3",
+        "data": {
+          "text": "<strong id=\"sec25_3-2-hirurgicheskoe-lechenie_p3_t1\">Рекомендовано </strong>пациентам с ПА во время подготовки к хирургическим вмешательствам, проведения анестезиологических пособий и в случаях, когда требуется удлинить период голодания использовать внутривенное введение растворов декстрозыи электролитоврастворы, влияющие на водно-электролитный баланс (калия хлорид+натрия ацетат+натрия хлорид) с цельюрегидратации, при отсутствии противопоказаний к введению значительных объемов жидкостей, ипредотвращения развития метаболического криза[2, 4, 10, 14, 16, 20].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec25_3-2-hirurgicheskoe-lechenie_p4",
+        "data": {
+          "text": "<strong id=\"sec25_3-2-hirurgicheskoe-lechenie_p4_t1\">Комментарии: </strong><em id=\"sec25_3-2-hirurgicheskoe-lechenie_p4_t3\">инфузионная терапия в случаях, требующих удлинение периода голодания, растворы декстрозыи растворы, влияющие на водно-электролитный баланс, вводятся из расчета 8-10 мг/кг/мин для детей первого года жизни, 6-7 мг/кг/мин – для детей от года до 10 лет, 5-6 мг/кг/мин – для детей старше 10 лет.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec25_3-2-hirurgicheskoe-lechenie_p5",
+        "data": {
+          "text": "<strong id=\"sec25_3-2-hirurgicheskoe-lechenie_p5_t1\">Рекомендована</strong> установка гастростомы или назогастрального зонда пациентам с метаболическим кризом на фоне ПА при наличии рвоты и срыгивания или отказе от приема пищи с целью кормления смесью аминокислот без изолейцина, метионина, треонина и валина [1].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec26_3-3-inoe-lechenie",
+        "data": {
+          "text": "3.3 Иное лечение",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec26_3-3-inoe-lechenie_p1",
+        "data": {
+          "text": "<strong id=\"sec26_3-3-inoe-lechenie_p1_t1\">Рекомендовано</strong>пациентам с ПА рассмотреть вопрос о необходимости проведения перитонеального диализа или гемодиализа при отсутствии быстрой положительной реакции на интенсивную терапию, сохраняющемся кетоацидозе и гипераммониемиис целью коррекции данных состояний[4, 10, 16, 18, 24].",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec26_3-3-inoe-lechenie_p2",
+        "data": {
+          "text": "<strong id=\"sec26_3-3-inoe-lechenie_p2_t1\">Комментарии: </strong><em id=\"sec26_3-3-inoe-lechenie_p2_t2\">перитонеальный диализ или гемодиализ проводятся с целью более эффективного выведения токсичных метаболитов.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec27_4-meditsinskaya-reabilitatsiya-i-sanatorno-kurortnoe-lechenie-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-meditsinskoy-reabilitatsii-v-tom-chisle-osnovannyh-na-ispolzovanii-prirodnyh-lechebnyh-faktorov",
+        "data": {
+          "text": "4. Медицинская реабилитация и санаторно-курортное лечение, медицинские показания и противопоказания к применению методов медицинской реабилитации, в том числе основанных на использовании природных лечебных факторов",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec27_4-meditsinskaya-reabilitatsiya-i-sanatorno-kurortnoe-lechenie-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-meditsinskoy-reabilitatsii-v-tom-chisle-osnovannyh-na-ispolzovanii-prirodnyh-lechebnyh-faktorov_p1",
+        "data": {
+          "text": "<strong id=\"sec27_4-meditsinskaya-reabilitatsiya-i-sanatorno-kurortnoe-lechenie-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-meditsinskoy-reabilitatsii-v-tom-chisle-osnovannyh-na-ispolzovanii-prirodnyh-lechebnyh-faktorov_p1_t1\">Рекомендовано </strong>пациентам с ПА проведение реабилитационных мероприятий, направленных на социальную адаптацию, поддержание и развитие когнитивных и интеллектуальных функций [1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec27_4-meditsinskaya-reabilitatsiya-i-sanatorno-kurortnoe-lechenie-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-meditsinskoy-reabilitatsii-v-tom-chisle-osnovannyh-na-ispolzovanii-prirodnyh-lechebnyh-faktorov_p2",
+        "data": {
+          "text": "<strong id=\"sec27_4-meditsinskaya-reabilitatsiya-i-sanatorno-kurortnoe-lechenie-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-meditsinskoy-reabilitatsii-v-tom-chisle-osnovannyh-na-ispolzovanii-prirodnyh-lechebnyh-faktorov_p2_t1\">Рекомендовано</strong>пациентам с ПА проведение психологической поддержки и обучения родителей правилам организации помощи и диетотерапии в межприступный период и в период угрозы метаболического криза [4, 10, 16, 18].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec28_5-profilaktika-i-dispansernoe-nablyudenie-meditsinskie-pokazaniya-i-protivopokazaniya-k-primeneniyu-metodov-profilaktiki",
+        "data": {
+          "text": "5. Профилактика и диспансерное наблюдение, медицинские показания и противопоказания к применению методов профилактики",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec29_5-1-profilaktika",
+        "data": {
+          "text": "5.1 Профилактика",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec29_5-1-profilaktika_p1",
+        "data": {
+          "text": "<em id=\"sec29_5-1-profilaktika_p1_t2\"><u id=\"sec29_5-1-profilaktika_p1_t1\">Неонатальный скрининг в Российской Федерации проводится в г.Москва и Приморском крае.</u></em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec29_5-1-profilaktika_p2",
+        "data": {
+          "text": "<strong id=\"sec29_5-1-profilaktika_p2_t1\">Рекомендована</strong> консультация врача-генетика семьям после установления диагноза пациентам с ПА с целью разъяснений генетического риска, обсуждения возможностей пренатальной и преимплантационной диагностики [1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec29_5-1-profilaktika_p3",
+        "data": {
+          "text": "<strong id=\"sec29_5-1-profilaktika_p3_t1\">Комментарии:</strong><em id=\"sec29_5-1-profilaktika_p3_t2\">учитываяаутосомно-рецессивный тип наследования ПА, для каждой беременности риск рождения ребенка с ПА составляет 25%. С целью проведения пренатальной и преимплантационной диагностики супружеской паре предварительно необходимо пройти</em><em id=\"sec29_5-1-profilaktika_p3_t3\">обследовани</em><em id=\"sec29_5-1-profilaktika_p3_t4\">е</em><em id=\"sec29_5-1-profilaktika_p3_t5\"> на гетерозиготное носительство мутаций в ген</em><em id=\"sec29_5-1-profilaktika_p3_t6\">ах</em><em id=\"sec29_5-1-profilaktika_p3_t7\">PCCA и PCCB, </em><em id=\"sec29_5-1-profilaktika_p3_t8\">обратившись в специализированные диагностические лаборатории и медицинские центры.Пренатальная диагностика проводится молекулярно-генетическими методами, путем исследования ДНК, выделенной из биоптата ворсин хориона и/или клеток амниотической жидкости и/или плодной крови.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec29_5-1-profilaktika_p4",
+        "data": {
+          "text": "<strong id=\"sec29_5-1-profilaktika_p4_t1\">Рекомендовано</strong> с целью профилактикиразвития метаболических кризов информирование родителей (или законных представителей) пациента с ПА о характере заболевания, провоцирующих факторах и предвестниках криза, возможных его последствиях[1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec29_5-1-profilaktika_p5",
+        "data": {
+          "text": "<strong id=\"sec29_5-1-profilaktika_p5_t1\">Рекомендовано</strong> пациентам с ПА проводить профилактическую вакцинацию в соответствиис национальным календаремпрофилактических прививок, включая вакцинацию против гриппа и ротавирусной инфекциис соблюдением возрастных ограничений иммунобиологических препаратов на фоне строгого выполнения диетических и лечебных назначений с целью формирования эффективного иммунногоответа от инфекций и предотвращения развития метаболических кризов [1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec29_5-1-profilaktika_p6",
+        "data": {
+          "text": "<strong id=\"sec29_5-1-profilaktika_p6_t1\">Комментарии:</strong><em id=\"sec29_5-1-profilaktika_p6_t2\"> вакцинацию целесообразно проводить под контролем специалистов, имеющих опыт работы с пациентами с метаболическими болезнями.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec29_5-1-profilaktika_p7",
+        "data": {
+          "text": "<em id=\"sec29_5-1-profilaktika_p7_t1\">В поствакцинальном периоде следует пристально наблюдать за привитыми с повторным измерением температуры тела, что необходимо для незамедлительного назначения жаропонижающей терапии при диагностировании лихорадки &gt;38,0°</em><em id=\"sec29_5-1-profilaktika_p7_t2\">C</em><em id=\"sec29_5-1-profilaktika_p7_t5\">, (парацетамол или, ибупрофен).</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie",
+        "data": {
+          "text": "5.2 Диспансерное наблюдение",
+          "level": 2,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p1",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p1_t1\">Рекомендовано</strong> в процессе комплексного лечения  пациентов с ПА осуществлять контроль показателей общего (клинического) анализа крови развернутого, общего белка, Исследование уровня альбумина в крови, преальбумин, глюкозы, сывороточного железа, лактата (молочной кислоты), количественного определения уровня аминокислот (глицин, лейцин, изолейцин, валин, треонин) в крови (Комплексное определение концентрации на аминокислоты и ацилкарнитины в крови, Комплексное определение концентрации на аминокислоты и ацилкарнитины в крови методом тандемной масс-спектрометрии), свободного карнитина и пропионилкарнитина. Контролировать параметры кислотно-основного состояния крови (Исследование уровня водородных ионов (рН) крови, Исследование уровня буферных веществ в крови)[1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p2",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p2_t1\">Комментарии</strong>: <em id=\"sec30_5-2-dispansernoe-nablyudenie_p2_t2\">общий (клинический) анализкрови развернутый контролируется не реже 1 раза в год.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p3",
+        "data": {
+          "text": "<em id=\"sec30_5-2-dispansernoe-nablyudenie_p3_t1\">Уровни метионина, треонина, валина, изолейцина в крови в результате лечения должны быть приближены к референсным возрастным значениям). Особенно важно обеспечивать нормальный сывороточный уровень аминокислот с разветвленной углеродной цепью. Так, недостаточное потребление белка и дефицит изолейцина являются причиной развития тяжелого акродерматита и служат основанием для дополнительного введения в рацион питания L-изолейцина в дозе 50-100 мг/сут(</em><em id=\"sec30_5-2-dispansernoe-nablyudenie_p3_t2\">продукты питания, содержащие изолейцин в дозировке 50-100 мг в сутки) в зависимости от степени дефицита. Содержание глицина в крови может быть умеренно повышенным. </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p4",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p4_t1\">Рекомендовано</strong> в процессе комплексного лечения с ПА проводить определение почечной экскреции 3-гидроксипропионовой, метиллимонной кислот (Комплексное определение содержания органических кислот в моче) с целью своевременного предотвращения развития метаболического криза[1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p5",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p5_t1\">Комментарии: </strong><em id=\"sec30_5-2-dispansernoe-nablyudenie_p5_t2\">Кратность проведения анализов зависит от состояния пациента.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p6",
+        "data": {
+          "text": "<em id=\"sec30_5-2-dispansernoe-nablyudenie_p6_t1\">Количественное определение уровня аминокислот (глицин, лейцин+изолейцин, валин, треонин) в крови (Комплексное определение концентрации на аминокислоты и ацилкарнитины в крови, Комплексное определение концентрации на аминокислоты и ацилкарнитины в крови методом тандемной масс-спектрометрии) – при стабильном состоянии - каждые 3-6 мес.</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p7",
+        "data": {
+          "text": "<em id=\"sec30_5-2-dispansernoe-nablyudenie_p7_t1\">В период инфекционных заболеваний, метаболического криза определение уровня аминокислот в крови и карнитинов (Комплексное определение концентрации на аминокислоты и ацилкарнитины в крови, Комплексное определение концентрации на аминокислоты и ацилкарнитины в крови методом тандемной масс-спектрометрии) осуществляют не реже 1 раза в 7-10 дней, КЩС (Исследование уровня водородных ионов (рН) крови, Исследование уровня буферных веществ в крови)- ежедневно до стабилизации показателей.</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p8",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p8_t1\">Рекомендовано</strong> определение уровня общего кальция, ионизированного кальция неорганического фосфора в крови, общего магния в сыворотке крови, активность щелочной фосфатазы, Исследование уровня 25-ОН витамина Д в крови, Исследование уровня паратиреоидного гормона в крови – с целью оценки метаболизма кальция и контроля остеопении[1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p9",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p9_t1\">Комментарии: </strong><em id=\"sec30_5-2-dispansernoe-nablyudenie_p9_t2\">исследования проводятся </em><em id=\"sec30_5-2-dispansernoe-nablyudenie_p9_t3\">ежегодно</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p10",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p10_t1\">Рекомендовано </strong>Определение уровня витамина В12 (цианокобаламин) в крови, Исследование уровня фолиевой кислоты,Исследование уровня ферритина в кровис целью оценки нутритивного статуса– ежегодно[1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p11",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p11_t1\">Рекомендовано</strong> Определение активности липазы в сыворотке крови, Определение активности панкреатической амилазы в крови – не реже 1 раза в 6 мес с целью контроля функции поджелудочной железы и своевременного выявления панкреатита [1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p12",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p12_t1\">Рекомендовано </strong>пациентам с ПА исследование уровня креатинина в крови, Исследование уровня мочевины в крови, Исследование уровня мочевой кислоты в крови, Исследование уровня цистатина С в крови, Исследование уровня кальция в моче, Исследование уровня фосфора в моче, Определение белка в моче, Определение альбумина в моче, Определение количества белка в суточной моче с целью оценки почечной функции – не реже 1 раза в год, начиная с 6-летнего возраста или ранее – при нарушении функции почек. Исследование функции нефронов по клиренсу креатинина (проба Реберга) – при отклонениях от нормы вышеуказанных параметров[1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p13",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p13_t1\">Комментарии: </strong><em id=\"sec30_5-2-dispansernoe-nablyudenie_p13_t2\">клиренс креатинина (скорость клубочковой фильтрации) следует рассчитывать по формуле (расчетная по формуле Шварца, приповышенной массе тела – по формуле Кокрофта-Голда) – (услуги отсутствуют в Номенклатуре медицинских услуг).</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p14",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p14_t1\">Рекомендовано</strong> для оценки эффективности длительного лечения использовать референсные показатели содержания патогенетически значимых аминокислот в крови и патологических метаболитов в моче [2, 4, 10, 14, 16, 18, 20].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p15",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p15_t1\">Рекомендовано</strong> осуществлять контроль нутритивного статуса с коррекцией питания в зависимости от состояния пациента и его толерантности к белку [2, 4, 10, 14, 16, 18, 20].",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p16",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p16_t1\">Комментарии:</strong> к<em id=\"sec30_5-2-dispansernoe-nablyudenie_p16_t2\">онтроль фактического питания (химического состава рациона) для предупреждения развития дефицитных состояний проводят у детей в реанимационном периоде – ежедневно, у детей первого года жизни - не реже 1 раза в 7-10 дней, у пациентов старше 1 года – 1 раз в 1-3 месяца. </em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p17",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p17_t1\">Рекомендовано</strong> своевременно корректировать дисфункцию желудочно-кишечного тракта у пациента с ПА, сопровождающуюся рвотой, запором с целью предотвращения развития метаболического криза [1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p18",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p18_t1\">Комментарии:</strong><em id=\"sec30_5-2-dispansernoe-nablyudenie_p18_t2\"> дети с ПА часто попадают в отделение патологии детей раннего возраста, инфекционное отделение или реанимацию в состоянии метаболического криза, развившегося на фоне метаболического ацидоза и гипогликемии. </em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p19",
+        "data": {
+          "text": "<em id=\"sec30_5-2-dispansernoe-nablyudenie_p19_t1\">Продолжительность госпитализации зависит от скорости верификации диагноза, коррекции метаболических нарушений путем проведения интенсивной терапии и начала патогенетической диетотерапии, а также от сроков появления положительной динамики со стороны центральной нервной системы и других органов, скорости восстановления показателей глюкозы крови и кислотно-щелочного состояния, ответ на лечение отмечается в течение 5-7 дней. Пребывание в стационаре в среднем составляет 21 день. </em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p20",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p20_t1\">Рекомендовано</strong> проведение электрокардиографии (ЭКГ), эхокардиографии (ЭхоКГ) всем пациентам с ПА   ежегодно, при необходимости чаще для диагностики кардиомиопатии и нарушений ритма сердца и проведения лечения согласно соответствующим клиническим рекомендациям [4, 9, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p21",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p21_t1\">Комментарии: </strong><em id=\"sec30_5-2-dispansernoe-nablyudenie_p21_t2\">при необходимости</em><em id=\"sec30_5-2-dispansernoe-nablyudenie_p21_t3\">, при наличии показаний для исследования - </em><em id=\"sec30_5-2-dispansernoe-nablyudenie_p21_t4\">Холтеровского мониторирования сердечного ритма, и/или суточного мониторирования артериального давления (согласно соответствующим клиническим рекомендациям по нарушениям ритма сердца и/или артериальной гипертензии).</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p22",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p22_t1\">Рекомендовано</strong> пациентам с ПА проведениеультразвукового исследования (УЗИ) органов брюшной полости и почек (Ультразвуковое исследование органов брюшной полости (комплексное), Ультразвуковое исследование почек) по показаниям, в том числе при болях в животе, в связи с возможностью развития панкреатитов и поражения почек[4, 9, 10, 12,13,25, 26, 27, 28<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p22_t2\">].</strong>",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p23",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p23_t1\">Комментарии: </strong><em id=\"sec30_5-2-dispansernoe-nablyudenie_p23_t2\">кратность проведения определяется индивидуально</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p24",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p24_t1\">Рекомендовано</strong> пациентам с ПА по показаниям проведение компьютерной или магнитно-резонансной томографии органов брюшной полости, Магнитно-резонансной холангиографии, Магнитно-резонансной холангиопанкреатографиидля оценки состояния внутренних органов[1, 27].",
+          "grade": "4C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p25",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p25_t2\"><em id=\"sec30_5-2-dispansernoe-nablyudenie_p25_t1\">Комментарии: </em></strong><em id=\"sec30_5-2-dispansernoe-nablyudenie_p25_t3\">кратность проведения определяется индивидуально. Наркоз-по показаниям.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p26",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p26_t1\">Рекомендовано</strong> пациентам с    ПА  осмотр врача-офтальмолога  при наличии подозрений на поражение органа зрения, в том числе, возможного развития атрофии зрительного нерваежегодно после 6 лет[4, 9, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p27",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p27_t1\">Рекомендовано </strong>наблюдение пациента с ПАпосле выписки из стационара в амбулаторно-поликлинических условиях врачом-педиатром/врачом-терапевтом/врачом общей практики (семейным врачом), врачом-неврологом, врачом-диетологом, с целью своевременной коррекции терапии при необходимости [1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p28",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p28_t1\">Рекомендована</strong> консультация врача-генетика детям с ПА с целью назначения и коррекции диетотерапии, осуществления контроля за её соблюдением; семьям, имеющим родственников с ПА, для планирования деторождения [6, 9, 10, 14, 37].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p29",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p29_t1\">Комментарии: </strong><em id=\"sec30_5-2-dispansernoe-nablyudenie_p29_t2\">интервалы между визитами должны определяться индивидуально с учетомвозраста, тяжести заболевания, стабильности обмена веществ и соблюдениядиетотерапии.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p30",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p30_t1\">Рекомендован</strong>мультидисциплинарный подход к наблюдению и лечению пациентов с ПА специалистами разных профилей (врачом-педиатром, врачом-терапевтом, семейным врачом, врачом-генетиком, врачом-неврологом, врачом-диетологом, врачом-травматологом-ортопедом, врачом-эндокринологом/врачом-детским эндокринологом, врачом-кардиологом/врачом-детским кардиологом, врачом-офтальмологом, врачом-сурдологом-оториноларингологом, врачом-стоматологом/врачом-детским стоматологом, врачом-гастроэнтерологом, врачом-аллергологом-иммунологом, врачом-гематологом/врачом-детским гематологом, врачом-психиатром, врачом-реабилитологом, медицинским психологом, логопедом-дефектологом и другими) с целью обеспечения комплексной терапии и своевременной её коррекции при необходимости [1, 10].",
+          "grade": "5C"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p31",
+        "data": {
+          "text": "<strong id=\"sec30_5-2-dispansernoe-nablyudenie_p31_t1\">Комментарии: </strong><em id=\"sec30_5-2-dispansernoe-nablyudenie_p31_t2\">пациенты с симптоматической эпилепсией нуждаются в наблюдении врача-невролога с опытом работы с пациентами с эпилепсией, а также врача-кардиолога (врача-детского кардиолога), врача-гастроэнтеролога, врача-офтальмологав связи с высоким риском развития кардиомиопатии, нарушений ритма сердца, острого панкреатита, атрофии зрительных нервов. Необходим контроль ЭЭГ, ЭКГ, ЭхоКГ, холтеровское мониторирование сердечного ритма УЗИ внутренних органов (1-2 раза в год по показаниям).</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p32",
+        "data": {
+          "text": "<em id=\"sec30_5-2-dispansernoe-nablyudenie_p32_t1\">Ежегодно пациенты должны проходить углубленную диспансеризацию, где также осуществляются необходимые реабилитационные мероприятия (Приложении А3.5).</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec30_5-2-dispansernoe-nablyudenie_p33",
+        "data": {
+          "text": "<em id=\"sec30_5-2-dispansernoe-nablyudenie_p33_t1\">Родители должны быть обучены правилам организации терапии в межприступный период и в период угрозы метаболического криза. У ребенка при себе всегда должна находиться памятка с указанием неотложных мероприятий в период начинающегося метаболического криза</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi",
+        "data": {
+          "text": "6. Организация оказания медицинской помощи",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p1",
+        "data": {
+          "text": "Показания для плановой госпитализации в медицинскую организацию:"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p3",
+        "data": {
+          "text": "Показания для экстренной госпитализации в медицинскую организацию:"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p5",
+        "data": {
+          "text": "Показания к выписке пациента измедицинской организации:"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p7",
+        "data": {
+          "text": "<strong id=\"sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p7_t2\"><u id=\"sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p7_t1\">Принципы организации медицинской помощи пациентам с ПА</u></strong>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p8",
+        "data": {
+          "text": "<em id=\"sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p8_t1\">Постановка диагноза ПАставит много вопросов перед родственниками пациента и перед специалистами, работающими с такими пациентами. Многочисленные проблемы, возникающие при обнаружении и развитии заболевания, требуют грамотной организации процесса оказания медицинской помощи при участии мультидисциплинарной команды специалистов и соблюдения основных принципов и подходов к ее оказанию.</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p9",
+        "data": {
+          "text": "<em id=\"sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p9_t1\">Данные принципы должны соблюдаться на любом этапе оказания медицинской помощи, как в момент постановки диагноза, так и на любом этапе наблюдения пациента.</em>"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p11",
+        "data": {
+          "text": "<strong id=\"sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p11_t1\">Комментарии: </strong><em id=\"sec31_6-organizatsiya-okazaniya-meditsinskoy-pomoschi_p11_t2\">В круг обязанностей врача-генетика входит обследование и постановка диагноза, информирование семьи о заболевании, составление плана многопрофильного наблюдения, наблюдение за пациентом,оценка динамики и степень прогрессирования заболевания при регулярных осмотрах, назначение поддерживающей терапии.</em>",
+          "grade": "comments"
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec32_7-dopolnitelnaya-informatsiya-v-tom-chisle-faktory-vliyayuschie-na-ishod-zabolevaniya-ili-sostoyaniya",
+        "data": {
+          "text": "7. Дополнительная информация (в том числе факторы, влияющие на исход заболевания или состояния)",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec32_7-dopolnitelnaya-informatsiya-v-tom-chisle-faktory-vliyayuschie-na-ishod-zabolevaniya-ili-sostoyaniya_p1",
+        "data": {
+          "text": "Без патогенетического лечения в период метаболического криза подавляющее большинство детей погибает. При своевременной коррекции и профилактике метаболических кризов, соблюдении и строгом контроле патогенетической диетотерапии и симптоматического лечения прогноз для жизни благоприятный."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec32_7-dopolnitelnaya-informatsiya-v-tom-chisle-faktory-vliyayuschie-na-ishod-zabolevaniya-ili-sostoyaniya_p2",
+        "data": {
+          "text": "Прогноз состояния и уровня психического развития пациента зависит от тяжести заболевания, наличия инсультоподобных состояний, вовлечения в патологический процесс внутренних органов (почки, сердце, поджелудочная железа), а также сроков начала специализированной терапии и качества лечения, способного предупредить приступы метаболической декомпенсации."
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec33_kriterii-otsenki-kachestva-meditsinskoy-pomoschi",
+        "data": {
+          "text": "Критерии оценки качества медицинской помощи",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec34_spisok-literatury",
+        "data": {
+          "text": "Список литературы",
+          "level": 1,
+          "isAppendix": false
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy",
+        "data": {
+          "text": "Приложение А1. Состав рабочей группы по разработке и пересмотру клинических рекомендаций",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p1",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p1_t1\">Багаева Мадлена Энверовна - </strong>к.м.н., старший научный сотрудник отделенияпедиатрической гастроэнтерологии, гепатологии и диетологии Клиники ФГБУН \"ФИЦ питания и биотехнологии\".",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p2",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p2_t1\">Байдакова Галина Викторовна</strong>- к.б.н., ведущий научный сотрудник лаборатории наследственных болезней обмена ФГБНУ \"Медико-генетический научный центрим. академика Н.П.Бочкова\", член Российского общества медицинских генетиков.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p3",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p3_t1\">Баранов Александр Александрович</strong>- акад. РАН, профессор, д.м.н.; почетный президент Союза педиатров России, советник руководителя НИИ педиатрии и охраны здоровья детей ЦКБ РАН, профессор кафедры педиатрии и детской ревматологии ФГАОУ «Первый МГМУ им. И.М. Сеченова» Минздрава России (Сеченовский Университет), главный внештатный специалист педиатр Минздрава России.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p4",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p4_t1\">Боровик Татьяна Эдуардовна </strong>- д.м.н., профессор, заведующая лабораторией питания здорового и больного ребенка ФГАУ «Национальный медицинский исследовательский центр здоровья детей» Минздрава России, член Ассоциации медицинских генетиков.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p5",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p5_t1\">Бушуева Татьяна Владимировна</strong>- д.м.н.,ФГАУ «Национальный медицинский исследовательский центр здоровья детей» Минздрава России, член Ассоциации медицинских генетиков.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p6",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p6_t1\">Вашакмадзе Нато Джумберовна</strong>- д.м.н., руководитель отдела орфанных болезней и профилактики инвалидизирующих заболеваний НИИ педиатрии и охраны здоровья детей ЦКБ РАН профессор кафедры факультетской педиатрии педиатрического факультета ФГБОУ ВО «РНИМУ им. Н.И. Пирогова» Минздрава России.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p7",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p7_t1\">ВишнёваЕлена Александровна -</strong>д.м.н., заместитель руководителя НИИ педиатрии и охраны здоровья детей ЦКБ РАН Минобрнауки по научной работе, профессор кафедры факультетской педиатрии педиатрического факультета ФГБОУ ВО «РНИМУ им. Н.И. Пирогова» Минздрава России, член Союза педиатров России.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p8",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p8_t1\">Глоба Оксана Валерьевна </strong>- к.м.н., врач отделения психоневрологии и психосоматической патологии ФГАУ \"Национальный медицинский исследовательский центр здоровья детей\" Минздрава России, член Ассоциации медицинских генетиков.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p9",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p9_t1\">Дегтярева Анна Владимировна - </strong>д.м.н., профессор, врач высшей категории, заведующая отделом педиатрии, ФГБУ «НМИЦ акушерства, гинекологии и перинатологии им. Ак. В.И. Кулакова».",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p10",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p10_t1\">Журкова Наталия Вячеславовна</strong> - к.м.н., ведущий научный сотрудник НИИ педиатрии и охраны здоровья детей ЦКБ РАН, член Союза педиатров России, член Ассоциации медицинских генетиков (АМГ).",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p11",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p11_t1\">Зарубина Вера Владимировна </strong>– врач-генетик медико-генетического отделения Морозовской ДГКБ ДЗМ.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p12",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p12_t1\">Захарова Екатерина Юрьевна</strong>-д.м.н., заведующая лабораторией наследственных болезней обмена ФГБНУ \"Медико-генетический научный центр им. академика Н.П.Бочкова\", член Российского общества медицинских генетиков, член европейского общества по изучению наследственных болезней обмена веществ (SSIEM).",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p13",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p13_t1\">Кретов Владимир Владимирович </strong>– врач- реаниматолог отделения реанимации и интенсивной терапии ФГАУ \"Национальный медицинский исследовательский центр здоровья детей\" Минздрава России.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p14",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p14_t1\">Кузенкова Людмила Михайловна</strong> - д.м.н.,начальник центра детской психоневрологии, заведующая отделением психоневрологии и психосоматической патологии ФГАУ \"Национальный медицинский исследовательский центр здоровья детей\" Минздрава России, член Ассоциации медицинских генетиков.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p15",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p15_t1\">Куцев Сергей Иванович</strong> - чл.-корр РАН, д.м.н., директор ФГБНУ \"Медико-генетический научный центр им. академика Н.П.Бочкова\", Президент Ассоциации медицинских генетиков (АМГ).",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p16",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p16_t1\">Лаврова Алла Евгеньевна -</strong>д.м.н., главный научный сотрудник, врач высшей квалификационной категории по специальности “Педиатрия”, заведующая 2-м педиатрическим отделением, ФГБОУ ВО «Приволжский исследовательский медицинский университет» МЗ РФ.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p17",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p17_t1\">Михайлова Светлана Витальевна</strong> -д.м.н., заведующая отделением ФГБУ «Российская Детская Клиническая Больница» МЗ РФ.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p18",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p18_t1\">Назаренко Людмила Павловна </strong>- профессор, д.м.н., заместитель директора по научной и лечебной работе, руководитель лаборатории наследственной патологии НИИ медицинской генетики, Томского НИМЦ РАН, член Ассоциации медицинских генетиков (АМГ).",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p19",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p19_t1\">Намазова-Баранова Лейла Сеймуровна</strong>- акад. РАН, профессор, д.м.н., президент Союза педиатров России; паст-президент EPA/UNEPSA; руководитель НИИ педиатрии и охраны здоровья детей ЦКБ РАН, заведующая кафедрой факультетской педиатрии педиатрического факультета ФГБОУ ВО «РНИМУ им. Н.И. Пирогова» Минздрава России, главный внештатный детский специалист по профилактической медицине Минздрава России",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p20",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p20_t1\">Николаева Е</strong><strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p20_t2\">катерина Александровна</strong> – д.м.н., руководитель отдела клинической генетики ОСП «Научно-исследовательский клинический институт педиатрии имени академика Ю.Е.Вельтищева» ФГАОУ ВО РНИМУ имени Н.И.Пирогова, член Российского общества медицинских генетиков, член Ассоциации медицинских генетиков",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p21",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p21_t1\">Пашкова Ирина Евгеньевна</strong>– к.м.н., заведующая педиатрическим отделением ФГБУ «Национальный медицинский исследовательский центр трансплантологии и искусственных органов имени академика В.И. Шумакова» Министерства здравоохранения Российской Федерации",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p22",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p22_t1\">Печатникова Наталья Леонидовна -</strong>врач-невролог, заведующий отделением, Морозовская ДГКБ ДЗМ ",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p23",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p23_t1\">Пушков Александр Алексеевич</strong> – к.м.н., ведущий научный сотрудник лаборатории молекулярной генетики и медицинской геномики ФГАУ \"Национальный медицинский исследовательский центр здоровья детей\" Минздрава России, член Ассоциации медицинских генетиков.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p24",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p24_t1\">Репина Светлана Афанасьевна</strong>– к.м.н., врач-генетик ФГБНУ \"Медико-генетический научный центр им. академика Н.П.Бочкова \", член Российского общества медицинских генетиков, член Ассоциации медицинских генетиков.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p25",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p25_t1\">Савостьянов Кирилл Викторович </strong>– д.б.н., начальник центра фундаментальных исслеований в педиатрии ФГАУ \"Национальный медицинский исследовательский центр здоровья детей\" Минздрава России, член Ассоциации медицинских генетиков.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p26",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p26_t1\">Селимзянова Лилия Робертовна -</strong> к.м.н., ведущий научный сотрудник НИИ педиатрии и охраны здоровья детей ЦКБ РАН Министерства науки и высшего образования Российской Федерации, доцент кафедры педиатрии и детской ревматологии ФГАОУ «Первый МГМУ им. И.М. Сеченова» Минздрава России (Сеченовский Университет), доцент кафедры факультетской педиатрии педиатрического факультета ФГБОУ ВО «РНИМУ им. Н.И. Пирогова» Минздрава России, член Союза педиатров России.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p27",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p27_t1\">Смирнова Ольга Яковлевна</strong> – врач-генетик, старший научный сотрудник отдела стандартизации и изучения основ доказательной медицины НИИ педиатрии и охраны здоровья детей ЦКБ РАН Министерства науки и высшего образования Российской Федерации, член Союза педиатров России, член Ассоциации медицинских генетиков.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p28",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p28_t1\">Строкова Татьяна Викторовна -</strong> д.м.н., профессор РАН, заведующая отделением педиатрической гастроэнтерологии, гепатологии и диетологии Клиники ФГБУН \"ФИЦ питания и биотехнологии\".",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p29",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p29_t1\">Тепаев Рустэм Фаридович</strong> –д.м.н. заведующий отделения реанимации и интенсивной терапииФГАУ \"Национальный медицинский исследовательский центр здоровья детей\" Минздрава России.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p30",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p30_t1\">Фисенко Андрей Петрович</strong>–д.м.н., профессор, Заслуженный врач Российской Федерации,директор ФГАУ \"Национальный медицинский исследовательский центр здоровья детей\" Минздрава России.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p31",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p31_t1\">Представители общественных пациентских организаций:</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p32",
+        "data": {
+          "text": "<strong id=\"sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p32_t1\">Погосян Нелли Сергеевна</strong> – представитель Всероссийского общества орфанных заболеваний",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec35_prilozhenie-a1-sostav-rabochey-gruppy-po-razrabotke-i-peresmotru-klinicheskih-rekomendatsiy_p33",
+        "data": {
+          "text": "Авторы подтверждают отсутствие финансовой поддержки/конфликта интересов, который необходимо обнародовать.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec36_prilozhenie-a2-metodologiya-razrabotki-klinicheskih-rekomendatsiy",
+        "data": {
+          "text": "Приложение А2. Методология разработки клинических рекомендаций",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec36_prilozhenie-a2-metodologiya-razrabotki-klinicheskih-rekomendatsiy_p1",
+        "data": {
+          "text": "Настоящие рекомендации предназначены для применения медицинскими организациями и учреждениями федеральных, территориальных и муниципальных органов управления здравоохранением, систем обязательного и добровольного медицинского страхования, другими медицинскими организациями различных организационно-правовых форм деятельности, направленной на оказание медицинской помощи.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec36_prilozhenie-a2-metodologiya-razrabotki-klinicheskih-rekomendatsiy_p2",
+        "data": {
+          "text": "Настоящие рекомендации устанавливают виды, объем и индикаторы качества медицинской помощи пациентам при пропионовой ацидемии.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec36_prilozhenie-a2-metodologiya-razrabotki-klinicheskih-rekomendatsiy_p3",
+        "data": {
+          "text": "Клинические рекомендации созданы на основании обзора литературы 1990-2020 гг. Medline (Pubmedversion), Embase (Dialogversion) и CochraneLibrarydatabases, Orphanet и OMIM, а также Международных клинических рекомендаций по диагностике, лечению и ведению больных с метаболическими болезнями.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec36_prilozhenie-a2-metodologiya-razrabotki-klinicheskih-rekomendatsiy_p4",
+        "data": {
+          "text": "Были использованы интернет-данные, представленные на международных и национальных сайтах обществ редких болезней и общественных организаций. Глубина поиска составляла 5 лет.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec36_prilozhenie-a2-metodologiya-razrabotki-klinicheskih-rekomendatsiy_p5",
+        "data": {
+          "text": "Оценка уровня убедительности рекомендаций и уровня достоверности доказательствприменения медицинских технологий проводилась в соответствии с унифицированной шкалой, приведенной в таблицах 1-3.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec36_prilozhenie-a2-metodologiya-razrabotki-klinicheskih-rekomendatsiy_p6",
+        "data": {
+          "text": "<strong id=\"sec36_prilozhenie-a2-metodologiya-razrabotki-klinicheskih-rekomendatsiy_p6_t1\">Целевая аудитория данных клинических рекомендаций:</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec36_prilozhenie-a2-metodologiya-razrabotki-klinicheskih-rekomendatsiy_p17",
+        "data": {
+          "text": "Порядок обновления клинических рекомендаций.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec36_prilozhenie-a2-metodologiya-razrabotki-klinicheskih-rekomendatsiy_p18",
+        "data": {
+          "text": "Механизм обновления клинических рекомендаций предусматривает их систематическую актуализацию – не реже чем один раз в три года,а также при появлении новых данных с позиции доказательной медицины по вопросам диагностики, лечения, профилактики и реабилитации конкретных заболеваний, наличии обоснованных дополнений/замечаний к ранее утверждённым КР, но не чаще 1 раза в 6 месяцев.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec37_prilozhenie-a3-spravochnye-materialy-vklyuchaya-sootvetstvie-pokazaniy-k-primeneniyu-i-protivopokazaniy-sposobov-primeneniya-i-doz-lekarstvennyh-preparatov-instruktsii-po-primeneniyu-lekarstvennogo-preparata",
+        "data": {
+          "text": "Приложение А3. Справочные материалы, включая соответствие показаний к применению и противопоказаний, способов применения и доз лекарственных препаратов, инструкции по применению лекарственного препарата",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec37_prilozhenie-a3-spravochnye-materialy-vklyuchaya-sootvetstvie-pokazaniy-k-primeneniyu-i-protivopokazaniy-sposobov-primeneniya-i-doz-lekarstvennyh-preparatov-instruktsii-po-primeneniyu-lekarstvennogo-preparata_p2",
+        "data": {
+          "text": "<strong id=\"sec37_prilozhenie-a3-spravochnye-materialy-vklyuchaya-sootvetstvie-pokazaniy-k-primeneniyu-i-protivopokazaniy-sposobov-primeneniya-i-doz-lekarstvennyh-preparatov-instruktsii-po-primeneniyu-lekarstvennogo-preparata_p2_t1\">Информация о лекарственных средствах: </strong>https://grls.rosminzdrav.ru/",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec37_prilozhenie-a3-spravochnye-materialy-vklyuchaya-sootvetstvie-pokazaniy-k-primeneniyu-i-protivopokazaniy-sposobov-primeneniya-i-doz-lekarstvennyh-preparatov-instruktsii-po-primeneniyu-lekarstvennogo-preparata_p3",
+        "data": {
+          "text": "<strong id=\"sec37_prilozhenie-a3-spravochnye-materialy-vklyuchaya-sootvetstvie-pokazaniy-k-primeneniyu-i-protivopokazaniy-sposobov-primeneniya-i-doz-lekarstvennyh-preparatov-instruktsii-po-primeneniyu-lekarstvennogo-preparata_p3_t1\">Основные нормативно-правовые акты, регулирующие оказание </strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec37_prilozhenie-a3-spravochnye-materialy-vklyuchaya-sootvetstvie-pokazaniy-k-primeneniyu-i-protivopokazaniy-sposobov-primeneniya-i-doz-lekarstvennyh-preparatov-instruktsii-po-primeneniyu-lekarstvennogo-preparata_p4",
+        "data": {
+          "text": "<strong id=\"sec37_prilozhenie-a3-spravochnye-materialy-vklyuchaya-sootvetstvie-pokazaniy-k-primeneniyu-i-protivopokazaniy-sposobov-primeneniya-i-doz-lekarstvennyh-preparatov-instruktsii-po-primeneniyu-lekarstvennogo-preparata_p4_t1\">паллиативной медицинской помощи</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec38_prilozhenie-a3-1-shema-metabolicheskih-protsessov-pri-propionovoy-atsidemii",
+        "data": {
+          "text": "Приложение А3.1. Схема метаболических процессов при пропионовой    ацидемии",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec39_prilozhenie-a3-2-normy-fiziologicheskoy-potrebnosti-v-osnovnyh-pischevyh-veschestvah-i-energii-dlya-zdorovyh-detey",
+        "data": {
+          "text": "Приложение А3.2. Нормы физиологической потребности в основных пищевых веществах и энергии для здоровых детей",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec39_prilozhenie-a3-2-normy-fiziologicheskoy-potrebnosti-v-osnovnyh-pischevyh-veschestvah-i-energii-dlya-zdorovyh-detey_p7",
+        "data": {
+          "text": "<span class=\"me-tooltip\" data-tooltip=\"\" id=\"sec39_prilozhenie-a3-2-normy-fiziologicheskoy-potrebnosti-v-osnovnyh-pischevyh-veschestvah-i-energii-dlya-zdorovyh-detey_p7_t1\">*</span> <em id=\"sec39_prilozhenie-a3-2-normy-fiziologicheskoy-potrebnosti-v-osnovnyh-pischevyh-veschestvah-i-energii-dlya-zdorovyh-detey_p7_t2\">- для детей с пропионовой ацидурией старше года потребление белка по сравнению с указанными в таблице уменьшается на 10-25% в зависимости от формы заболевания, тяжести состояния и нутритивного статуса ребенка. </em>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec40_prilozhenie-a3-3-potrebnost-v-metionine-treonine-valine-izoleytsine-u-patsientov-s-propionovoy-atsidemiey-v-zavisimosti-ot-vozrasta",
+        "data": {
+          "text": "Приложение А3.3. Потребность в метионине, треонине, валине, изолейцине у пациентов с пропионовой ацидемией в зависимости от возраста",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec41_prilozhenie-a3-4-primery-raschetov-pitaniya-dlya-patsientov-pri-initsiatsii-dietoterapii",
+        "data": {
+          "text": "Приложение А3.4. Примеры расчетов питания для пациентов при инициации диетотерапии.",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec41_prilozhenie-a3-4-primery-raschetov-pitaniya-dlya-patsientov-pri-initsiatsii-dietoterapii_p2",
+        "data": {
+          "text": "Масса тела 4 кг. Получает грудное молоко (или детскую молочную смесь) + смесь аминокислот без метионина, треонина, валина и изолейцина.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec41_prilozhenie-a3-4-primery-raschetov-pitaniya-dlya-patsientov-pri-initsiatsii-dietoterapii_p4",
+        "data": {
+          "text": "Объем суточного кормления 700 мл (по 100 мл 7 раз)",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec41_prilozhenie-a3-4-primery-raschetov-pitaniya-dlya-patsientov-pri-initsiatsii-dietoterapii_p7",
+        "data": {
+          "text": "Расчет проводится в соответствии с приведенными выше принципами, однако, можно использовать более упрощенный вариант для вычисления количества общего белка: не менее 50 %суточного потребления белка – за счет специализированной смеси, остальные 50% - за счет натуральных и специальных низкобелковых продуктов.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec42_prilozhenie-a3-5-primernyy-sutochnyy-nabor-produktov-ego-himicheskiy-sostav-i-energeticheskaya-tsennost-dlya-detey-doshkolnogo-vozrasta-s-propionovoy-atsidemiey",
+        "data": {
+          "text": "Приложение А3.5. Примерный суточный набор продуктов, его химический состав и энергетическая ценность для детей дошкольного возраста с пропионовой ацидемией",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec43_prilozhenie-a3-6-metabolicheskiy-kontrol-monitoring-dieticheskogo-lecheniya-nutritivnogo-statusa-i-vozmozhnyh-otdalennyh-oslozhneniy-zabolevaniya",
+        "data": {
+          "text": "Приложение А3.6. Метаболический контроль, мониторинг диетического лечения, нутритивного статуса и возможных отдаленных осложнений заболевания",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec43_prilozhenie-a3-6-metabolicheskiy-kontrol-monitoring-dieticheskogo-lecheniya-nutritivnogo-statusa-i-vozmozhnyh-otdalennyh-oslozhneniy-zabolevaniya_p3",
+        "data": {
+          "text": "<span class=\"me-tooltip\" data-tooltip=\"\" id=\"sec43_prilozhenie-a3-6-metabolicheskiy-kontrol-monitoring-dieticheskogo-lecheniya-nutritivnogo-statusa-i-vozmozhnyh-otdalennyh-oslozhneniy-zabolevaniya_p3_t1\">*</span>- адаптированоиз Matthias R Baumgartner et al. 2014.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec44_prilozhenie-b-algoritmy-deystviy-vracha",
+        "data": {
+          "text": "Приложение Б. Алгоритмы действий врача",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta",
+        "data": {
+          "text": "Приложение В. Информация для пациента",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p1",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p1_t1\">Что такое пропионовая ацидемия/ ацидурия?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p2",
+        "data": {
+          "text": "Пропионовая ацидемия или пропионовая ацидурия (ПА)- редкое наследственное заболевание, связанное с   дефицитом пропионил-КоА-карбоксилазы, фермента необходимого для метаболизма ряда аминокислот (изолейцин, валин, треонин и метионин), а также холестерина,  некоторых жирных кислот и свободного пропионата в кишечнике.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p3",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p3_t1\">Как часто встречается пропионовая ацидемия?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p4",
+        "data": {
+          "text": "ПА- очень редкое заболевание. В    странах Европы частота 1:100 000 новорожденных, в США - 1:250000. В части стран Азии и Ближнего Востока, в которых распространены близкородственные браки – от 1:2 000 (например, в Саудовской Аравии) до 1:40 000.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p5",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p5_t1\">Как проявляется пропионовая ацидурия?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p6",
+        "data": {
+          "text": "ПА может проявляться в разном возрасте - от младенчества до детского. При этом заболевании накапливаются токсичные вещества, которые оказывают воздействие на клетки нервной системы, поджелудочной железы и сердечной мышцы. У ребенка может наблюдаться симптомы , напоминающие отравление (интоксикацию)- частые срыгивания, рвота,  отказ от еды, мышечная слабость, вялость,  судороги, повышенная сонливость.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p7",
+        "data": {
+          "text": "Наиболее опасными для жизни состояниями, ведущими при отсутствии лечения, к необратимым последствиям вплоть до летального исхода, являются «метаболические кризы». В эти периоды повышается концентрация органических кислот в крови, аммония, изменяется кислотно-щелочное состояние крови, нарушается энергетический обмен.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p8",
+        "data": {
+          "text": "Кризы обычно провоцируются такими факторами, как вирусные и бактериальные инфекции, стрессовые ситуации, травмы и, хирургические вмешательства, эмоциональные и физические нагрузки, прием некоторых лекарственных препаратов.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p9",
+        "data": {
+          "text": "Неотложное лечение очень важно, так как существует высокий риск неврологических осложнений.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p10",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p10_t1\">Как наследуется </strong><strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p10_t2\">пропионовая ацидурия?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p11",
+        "data": {
+          "text": "ПА относится к наследственным заболеваниям и передается по аутосомно-рецессивному типу. Это значит, что болезнь проявляется только в том случае, если оба родителя являются носителями болезни и, хотя сами они не болеют, передают ребенку два пораженных гена. Большинство семей, где есть ребенок с этим заболеванием, не сталкивались раньше с подобной проблемой. Риск повторного рождения больного ребенка в семье, где уже есть больные дети, составляет 25% на каждую беременность. Мутации в одном из генов <em id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p11_t1\">PCCA</em>или<em id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p11_t2\">PCCB</em>могут приводить к этому заболеванию.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p12",
+        "data": {
+          "text": "Братья и сестры больного ребенка, могут быть больными, даже если у них на момент диагностики членов семьи не было симптомов.  В данном случае необходимо провести диагностику, чтобы как можно раньше начать терапию и избежать осложнений. Также они могут быть носителями, как их родители. Что касается других членов семьи, то им важно сообщить, что они могут быть носителями. Это значит, что и у них есть риск рождения ребенка с данным заболеванием.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p13",
+        "data": {
+          "text": "Все семьи с ПА должны обязательно пройти медико-генетическое консультирование и получить полную информацию от   врача-генетика   о   риске повторного проявления данного заболевания в семье, обсудить со специалистом все вопросы, связанные с наследованием заболевания. В России медико-генетические консультации работают в каждом регионе. ",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p14",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p14_t1\">Как устанавливается диагнозпропионовой ацидурии?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p15",
+        "data": {
+          "text": "На основании клинических симптомов врач может заподозрить диагноз и отправить пациента на лабораторное обследование.  Методом тандемной масс-спектрометрии в крови определяют уровень таких соединений как карнитин, ацилкарнитины и аминокислоты, с помощью метода газовой хроматографии масс спектрометрией – уровень органических кислот мочи. При ПА наблюдается повышение пропионилкарнитина (С3), низкое содержание свободного карнитина (С0), повышение соотношения С3/С0 и С3/С2 в крови, в моче повышена концентрация производных пропионовой кислоты- 3-гидроксипропионовой, метиллимонной, 3-гидрокси-n-валериановой кислот, тиглилглицина, и нормальная концентрация метилмалоновой кислоты. Пациентам с выявленными биохимическими изменениями, характерными для ПА, для подтверждения диагноза проводят молекулярно-генетическое исследование с целью выявления мутаций в генах, ответственных за пропионовую ацидурию - <em id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p15_t1\">PCCA, PCCB.</em>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p16",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p16_t1\">Как лечат пациентов с пропионовой ацидурией?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p17",
+        "data": {
+          "text": "Основными методами лечения ПА является диетотерапия и назначение специальных лекарственных препаратов, которые позволяют снизить влияние токсичных метаболитов на организм и позволяют им легче выводится с мочой. Диетотерапия заключается в ограничении поступления белка и тех аминокислот, метаболизм которых нарушен. Созданы специализированные лечебные смеси для питания детей разного возраста. Врач-генетик и врач-диетолог помогут рассчитать диету, правильно вводить прикорм и научат основным правилам диетотерапии. Крайне важно соблюдать все рекомендации врачей, чтобы максимально избежать развития метаболических кризов.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p18",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p18_t1\">Как лечат пациентов    в период метаболического криза?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p19",
+        "data": {
+          "text": "Следует временно прекратить потребление белка (на 24–48 часов). Полностью отменить белок невозможно, так как организм нуждается в поступлении белка и если его будет поступать недостаточно активируются процессы катаболизма.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p20",
+        "data": {
+          "text": "Дома при первых признаках заболевания, особенно когда у ребенка снижен аппетит (например, при простуде, гриппоподобных симптомах, вирусных инфекциях, любых заболеваниях, сопряженных с температурой &gt;37 °C, тонзиллите, гастроэнтерите) следует начать терапию по предотвращению развития криза. Если родители не уверены в появлении у ребенка первых признаков приближающегося заболевания (бледность, сонливость, раздражительность, потеря аппетита, лихорадка, головная боль, ломота и общая боль, кашель, боль в горле или ушах), то в качестве меры предосторожности ребенку следует дать выпить раствор один раз.  Самыми ранними признаками обычно являются незначительные изменения в поведении, которые обычно легко замечают родители. Если ребенок относительно здоров и у него нет рвоты, а только слабость и небольшая сонливость можно поить его через рот раствором полимера глюкозычастыми дробными порциями (таблица 1). Точный рецепт/концентрация полимера глюкозы, рекомендованная для каждого ребенка отличается, нужно узнать у лечащего врача что именно подходит вашему ребенку. Некоторым детям не нравится вкус полимера глюкозы, и они предпочитают напитки, которые продаются в супермаркетах, но концентрации углеводов в таких напитках ниже. Покупаемые напитки нужно применять с осторожностью. Низкокалорийные напитки, напитки без добавления сахара содержат очень мало или вовсе не содержат углеводов, поэтому их не следует использовать.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p21",
+        "data": {
+          "text": "С появлением первых признаков метаболического криза, не дожидаясь прихода врача, следует увеличить дозу перорального (через рот) #левокарнитина до 200 мг/кг/сутки.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p25",
+        "data": {
+          "text": "Затем в течение 1–2 часов нужно регулярно оценивать клиническое состояние ребенка.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p26",
+        "data": {
+          "text": "Если у ребенка постоянная рвота и ему не становится лучше, родителям следует незамедлительно обратиться в больницу для обследования.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p27",
+        "data": {
+          "text": "Врачам скорой помощи необходимо передать выписку с заключением и рекомендациями врача по терапии в период метаболического криза. ",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p28",
+        "data": {
+          "text": "Родителям нужно взять с собой в больницу всю информацию об использованных растворах  и желательно сами растворы.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p29",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p29_t1\">Какие известны осложнения при пропионовой ацидурии?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p30",
+        "data": {
+          "text": "Эта болезнь обмена сопровождается риском развития осложнений.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p31",
+        "data": {
+          "text": "Панкреатит. Одним из осложнений ПА является панкреатит, который часто остается нераспознанным. В случае боли в животе, гипокальциемии, следуют исключить данное состояние. Активность липазы плазмы и амилазы может не повышаться, особенно на ранней стадии. Необходимо проведение  УЗИ брюшной полости.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p32",
+        "data": {
+          "text": "Кардиомиопатия. Может развиться в любой момент по неясным причинам, даже если ребенок соблюдает диету и все назначения врача. Симптомы варьируют от легких (некоторые респираторные расстройства) до внезапной остановки сердца. Часто встречается аритмия,  удлинение интервалов QT. Регулярно следует контролировать ЭКГ в плановом порядке, а также проводить эхокардиографию, если есть клинические признаки поражения сердца.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p33",
+        "data": {
+          "text": "Инсультоподобные эпизоды. Могут произойти в любое время и часто внезапно. Они часто  проявляются двигательным расстройством. Симптомы могут появиться в любое время, даже когда пациент, кажется, выздоравливает. Может возникнуть гемиплегия или двигательное расстройство.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p34",
+        "data": {
+          "text": "Почечная недостаточность. Пациенты с ПА могут иметь поражения почек. Первоначально это проявляется как различные тубулопатии, например почечно-тубулярным ацидозом. Функция почек почти всегда ухудшается во время обострений. Следует тщательно контролировать  уровень электролитов.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p35",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p35_t1\">Какой нужно проводить мониторинг для пациентов?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p36",
+        "data": {
+          "text": "Необходим мультидисциплинарный подход к наблюдению и лечению пациентов с ПА специалистами разных профилей с целью обеспечения комплексной терапии и своевременной её коррекции при необходимости. Для пациентов с ПА необходимы регулярные обследования. В таблице приведен примерный перечень и регулярность исследований, но в каждом случае вы должны согласовывать план обследования со своим лечащим врачом.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p38",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p38_t1\">Как пациенты  получают лечение в Российской Федерации?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p39",
+        "data": {
+          "text": "ПА относится к числу редких наследственных болезней обмена веществ и входит  в перечень редких (орфанных) заболеваний, лечение которых проводится за счет средств регионального бюджета . После установление диагноза необходимо включение пациента в региональный сегмент регистра по жизнеугрожающим редким (орфанным) заболеваниям,  с целью дальнейшего обеспечения необходимым лечебным питанием и лекарственными препаратами.В разных регионах за ведение регистра отвечают разные специалисты, но чаще всего это врачи-генетики, поэтому после установления диагноза обязательно нужно обратиться к региональному врачу генетику.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p40",
+        "data": {
+          "text": "<strong id=\"sec45_prilozhenie-v-informatsiya-dlya-patsienta_p40_t1\">Как могут помогать родные и близкие?</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p41",
+        "data": {
+          "text": "Не забывайте – от семьи также зависит успех лечения. Нужно соблюдать рекомендации, ни при каких условиях не допускать «срывов» в диетотерапии, следует уделять внимание реабилитации и плановым обследованиям. Все члены семьи должны знать, что ребенок нуждается в особом питании и близкие родственники должны освоить навыки расчета диеты.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p42",
+        "data": {
+          "text": "Родители пациента с ПА, а в дальнейшем и сам пациент должны быть обучены правилам организации терапии в межприступный период и в период угрозы метаболического криза.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec45_prilozhenie-v-informatsiya-dlya-patsienta_p43",
+        "data": {
+          "text": "У ребенка при себе всегда должна находиться памятка с указанием неотложных мероприятий в период начинающегося метаболического криза.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki",
+        "data": {
+          "text": "Приложение В2. Пример «экстренной памятки»",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p1",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p1_t1\">Экстренная памятка</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p2",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p2_t1\">Внимание! Пациент угрожаем по развитию острого </strong><strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p2_t2\">метаболического криза</strong><strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p2_t3\">, связанного</strong><strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p2_t4\"> с </strong><strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p2_t5\">наследственным заболеванием. </strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p6",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p6_t2\"><em id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p6_t1\">- </em></strong>многократная рвота, диарея;",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p7",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p7_t2\"><em id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p7_t1\">-</em></strong> инфекции с высокой лихорадкой;",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p8",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p8_t2\"><em id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p8_t1\">-</em></strong> обезвоживание",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p9",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p9_t2\"><em id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p9_t1\">- </em></strong>угнетение сознания",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p10",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p10_t2\"><em id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p10_t1\"> -</em></strong>судороги",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p11",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p11_t2\"><em id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p11_t1\"> -</em></strong>отказ от еды",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p13",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p13_t1\">При подозрении на метаболический криз:</strong>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p14",
+        "data": {
+          "text": "3.1. Суточная калорийность рациона увеличивается на 25-50%.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p15",
+        "data": {
+          "text": "3.2. Ограничить поступление натурального белка на 50% или убрать полностью в зависимости от степени проявления симптомов на 24-48ч.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p16",
+        "data": {
+          "text": "3.3 Увеличить использвоние специализированного продукта лечебного питания",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p17",
+        "data": {
+          "text": "3.4. Обеспечить частые кормления небольшими порциями в течение 24часов.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p18",
+        "data": {
+          "text": "3.5. При нахождении пациента дома, увеличить потребление углеводов для восполнения калорийности за счет раствора декстрозы или мальтодекстрина (при их отсутствии – сладкий компот, кисель)",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p22",
+        "data": {
+          "text": "<span class=\"me-tooltip\" data-tooltip=\"\" id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p22_t1\">*</span>Общий объем разделяется на 12 приемов и вводится каждые 2 часа.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p23",
+        "data": {
+          "text": "3.6. При невозможности осуществлять, поддерживать пероральное кормление, установить назогастральный зонд.",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p24",
+        "data": {
+          "text": "3.7. При госпитализации в стационар, начать непрерывную инфузию р-ром 10% декстрозы из расчета: новорожденные и дети до 3-х лет 10-12мг/кг/мин, от 3 до 10 лет 8-10 мг/кг/мин, старше 10 лет 5-8 мг/кг/мин",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p25",
+        "data": {
+          "text": "3.8 Контроль анализов:",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p26",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p26_t1\">- </strong>КЩС, электролиты, аммоний",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p27",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p27_t1\">-</strong> общий анализ крови",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p28",
+        "data": {
+          "text": "<strong id=\"sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p28_t1\">-</strong> определение кетоновых тел в моче",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p29",
+        "data": {
+          "text": "- биохимический анализ крови (КФК, АЛТ, АСТ, глюкоза, билирубин общ, прямой, мочевина, креатинин, ГГТ, ЩФ, общий белок, альбумин, С-рб, калий, натрий, кальций, хлор)",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p30",
+        "data": {
+          "text": "- спектр аминокислот и ацилкарнитинов",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p32",
+        "data": {
+          "text": "Продолжить введение декстрозы до стабилизации состояния, под контролем глюкозы крови, КЩС, уровня лейцина, валина, изолейцина в крови",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec46_prilozhenie-v2-primer-ekstrennoy-pamyatki_p33",
+        "data": {
+          "text": "При купировании симптомов метаболической декомпенсации, снижении значений пропионилкарнитина, ведение продуктов содержащих натуральный белок из расчета ¼ необходимого суточного объема в первый день, ½ - на 2-3-й день, ¾ - на 3-4-й день, далее в полном объеме",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec47_prilozhenie-g1-gn-shkaly-otsenki-voprosniki-i-drugie-otsenochnye-instrumenty-sostoyaniya-patsienta-privedennye-v-klinicheskih-rekomendatsiyah",
+        "data": {
+          "text": "Приложение Г1-ГN. Шкалы оценки, вопросники и другие оценочные инструменты состояния пациента, приведенные в клинических рекомендациях",
+          "level": 1,
+          "isAppendix": true
+        },
+        "type": "header"
+      },
+      {
+        "id": "sec47_prilozhenie-g1-gn-shkaly-otsenki-voprosniki-i-drugie-otsenochnye-instrumenty-sostoyaniya-patsienta-privedennye-v-klinicheskih-rekomendatsiyah_p1",
+        "data": {
+          "text": "<em id=\"sec47_prilozhenie-g1-gn-shkaly-otsenki-voprosniki-i-drugie-otsenochnye-instrumenty-sostoyaniya-patsienta-privedennye-v-klinicheskih-rekomendatsiyah_p1_t1\">Не применяются</em>",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      },
+      {
+        "id": "sec47_prilozhenie-g1-gn-shkaly-otsenki-voprosniki-i-drugie-otsenochnye-instrumenty-sostoyaniya-patsienta-privedennye-v-klinicheskih-rekomendatsiyah_p2",
+        "data": {
+          "text": "",
+          "isAppendixContent": true
+        },
+        "type": "paragraph"
+      }
+    ],
+    "version": "2.29.1"
+  }
