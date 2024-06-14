@@ -52,11 +52,17 @@ const copyId = (id: string) => {
   opacity: 1;
 }
 
+.content-container__block .btn {
+  padding: 0;
+}
+
+
 .content-container__block:hover {
   background-color: #ffffff;
 }
 
 .context-menu__image {
+  position: absolute;
   width: 16px;
   height: 16px;
 }
